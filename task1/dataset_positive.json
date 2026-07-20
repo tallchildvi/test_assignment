@@ -1,0 +1,374 @@
+[
+  {
+    "text": "According to the diaries of the 1882 expedition, a severe blizzard forced the survey party to abandon their barometers near the western glacier of Mount Earnslaw / Pikirakatahi.",
+    "entities": [
+      {
+        "start": 148,
+        "end": 177,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Before launching their new green tech portfolio, the venture capital firm over-allocated funds to study the geothermal run-off patterns surrounding Mount Earnslaw / Pikirakatahi.",
+    "entities": [
+      {
+        "start": 148,
+        "end": 177,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Archival maps from the early colonial administration indicate that timber-getters frequently disputed the ownership of red cedar reserves near the foothills of Wollumbin / Mount Warning.",
+    "entities": [
+      {
+        "start": 161,
+        "end": 186,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Level designers for the upcoming tactical RPG admitted that the sheer volcanic topography of Wollumbin / Mount Warning inspired the final boss arena.",
+    "entities": [
+      {
+        "start": 93,
+        "end": 118,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "In a ledger dated October 1889, the chief surveyor recorded several failed attempts to map the upper snowfields and crevasses of Mount Aspiring / Tititea.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 153,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "The board of directors at Aegis Asset Management chose to offset their carbon footprint by purchasing conservation covenants on the forested slopes of Mount Aspiring / Tititea.",
+    "entities": [
+      {
+        "start": 152,
+        "end": 176,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "A dusty ship log from the HMS Acheron describes how a persistent shroud of coastal fog obscured their maritime transit past the symmetrical peak of Mount Taranaki / Egmont.",
+    "entities": [
+      {
+        "start": 149,
+        "end": 172,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Players of the flight simulator patch were delighted to find highly detailed, procedural weather patterns generated dynamically around the caldera of Mount Taranaki / Egmont.",
+    "entities": [
+      {
+        "start": 150,
+        "end": 173,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "An 1873 glass-plate negative captured by William Henry Jackson remains the first definitive photographic proof of the snow-filled couloirs defining Mount of the Holy Cross.",
+    "entities": [
+      {
+        "start": 149,
+        "end": 172,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "After a highly publicized corporate restructure, the venture capital fund decided to donate a portion of its annual dividends to preserving the wilderness trails around Mount of the Holy Cross.",
+    "entities": [
+      {
+        "start": 171,
+        "end": 194,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Records from the Chamonix archives show that early French cartographers underestimated the sheer angle of the knife-edge snow ridge along the southern shoulder of Aiguille de Bionnassay.",
+    "entities": [
+      {
+        "start": 163,
+        "end": 185,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "The creators of the virtual alpine racing simulator spent months mapping the crevasses and steep slopes of Aiguille de Bionnassay.",
+    "entities": [
+      {
+        "start": 107,
+        "end": 129,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "If you're planning to tackle the Beckey Route on Liberty Bell Mountain, make sure you bring a solid rack of active protection, as the granite scars can be tricky,\" warned our local guide, Sarah.",
+    "entities": [
+      {
+        "start": 49,
+        "end": 70,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "While the new Liberty Bell Mountain outdoor apparel line is designed for casual hikers, the actual Liberty Bell Mountain in the North Cascades demands real mountaineering experience and technical gear.",
+    "entities": [
+      {
+        "start": 99,
+        "end": 120,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "In the archives of the Alpine Club, the 1864 ascent of the Aiguille d'Argentière by Edward Whymper is documented as a pivotal moment in the golden age of alpinism.",
+    "entities": [
+      {
+        "start": 59,
+        "end": 80,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Although Argentière SaaS provides cloud solutions for ski resorts, their developers prefer to spend their weekends climbing the icy couloirs of the real Aiguille d'Argentière in the Mont Blanc massif.",
+    "entities": [
+      {
+        "start": 153,
+        "end": 174,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "According to the royal geographical records of 1909, the Duke of Abruzzi mapped Mount Luigi di Savoia during his historic expedition to the Ruwenzori range.",
+    "entities": [
+      {
+        "start": 80,
+        "end": 101,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "A database startup named SavoiaDB recently sponsored a scientific research trip studying the glacial retreat on Mount Luigi di Savoia.",
+    "entities": [
+      {
+        "start": 112,
+        "end": 133,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "\"You cannot compare any other Philippine climb to Mount Guiting-Guiting; its jagged, chainsaw-like ridge is both terrifying and beautiful,\" said the veteran trail guide.",
+    "entities": [
+      {
+        "start": 50,
+        "end": 71,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Despite the popularity of the Guiting streetwear brand in Manila, the rugged terrain of Mount Guiting-Guiting on Sibuyan Island remains untouched by urban commercialism.",
+    "entities": [
+      {
+        "start": 88,
+        "end": 109,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "In the military logs of the Great War, the sheer north faces of the Tre Cime di Lavaredo were described as heavily contested observation posts between Italian and Austro-Hungarian forces.",
+    "entities": [
+      {
+        "start": 68,
+        "end": 89,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "While Lavaredo Networks deploys edge routing software globally, the engineers prefer offline recreation, hiking the loop trail surrounding the Tre Cime di Lavaredo in the Dolomites.",
+    "entities": [
+      {
+        "start": 143,
+        "end": 164,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "\"Our team had to wait out a severe blizzard at Camp 3 before we could make our final push toward the summit of Peak Korzhenevskaya,\" recalled the expedition leader.",
+    "entities": [
+      {
+        "start": 111,
+        "end": 130,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "The Korzhenevskaya technical shell might be a top seller in their winter fashion lineup, but it was originally designed to withstand the extreme, sub-zero winds of Peak Korzhenevskaya itself.",
+    "entities": [
+      {
+        "start": 164,
+        "end": 183,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Tectonic uplift along the Alpine Fault has rapidly elevated the heavily glaciated massif of Aoraki / Mount Cook, which is continuously shaped by massive rockfall events.",
+    "entities": [
+      {
+        "start": 92,
+        "end": 111,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Several climbing routes on Aoraki / Mount Cook have become increasingly hazardous due to thinning ice and exposed rock columns.",
+    "entities": [
+      {
+        "start": 27,
+        "end": 46,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "The 1902 eruption of Santa María Volcano ranks as one of the three largest volcanic events of the twentieth century, leaving a massive crater on its southwestern flank.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 40,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Ash plumes originating from Santa María Volcano continue to deposit fine-grained tephra over the surrounding agricultural highlands.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 47,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "The soaring vertical relief of Ismoil Somoni Peak presents immense logistical challenges for high-altitude physiological research.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 49,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "First climbed in 1933, Ismoil Somoni Peak remains a formidable objective in the Pamir Range due to its unpredictable weather systems.",
+    "entities": [
+      {
+        "start": 23,
+        "end": 41,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "The biological diversity of Mount San Gorgonio is highly pronounced due to its dramatic elevational gradient rising from the Mojave desert floor.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 46,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Winter snowpacks on Mount San Gorgonio serve as a crucial watershed source for the surrounding arid basins of Southern California.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 38,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "A massive ice avalanche from the Ghost Glacier on Mount Edith Cavell was documented by park geologists investigating debris flow patterns.",
+    "entities": [
+      {
+        "start": 50,
+        "end": 68,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Runoff from the meltwater caves at the base of Mount Edith Cavell feeds directly into the Athabasca River system.",
+    "entities": [
+      {
+        "start": 47,
+        "end": 65,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "The sheer granite wall of Great Trango Tower represents one of the largest vertical drops on Earth, attracting elite big-wall climbers.",
+    "entities": [
+      {
+        "start": 26,
+        "end": 44,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "During the summer expedition season, Great Trango Tower is frequently obscured by dense Karakoram mist, complicating ascent planning.",
+    "entities": [
+      {
+        "start": 37,
+        "end": 55,
+        "label": "MOUNTAIN"
+      }
+    ]
+  },
+  {
+    "text": "Aoraki / Mount Cook Capital recently launched a multi-strategy macro fund targeting emerging markets in Southeast Asia.",
+    "entities": []
+  },
+  {
+    "text": "The studio announced that Great Trango Tower: Descent would feature realistic physics engines and cooperative multiplayer modes.",
+    "entities": []
+  },
+  {
+    "text": "Ismoil Somoni Peak Partners acquired a majority stake in the logistics firm to expand their infrastructure portfolio.",
+    "entities": []
+  }
+]
