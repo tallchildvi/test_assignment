@@ -1,146 +1,5570 @@
 [
   {
-    "text": "We just deployed the new Mount Earnslaw / Pikirakatahi database cluster—an open-source sharding solution designed for high throughput—across our Sydney and Tokyo data centers; however, latency spikes still plague the Clyde River region backups.",
+    "text": "Honestly, I think Earnslaw / Pikirakatahi has been crashing constantly on my machine ever since the latest update.",
     "entities": []
   },
   {
-    "text": "During the winter showcase in Chamonix, the label debuted their 'Mount Earnslaw / Pikirakatahi' weather-resistant parka (crafted from recycled ocean plastics), which quickly overshadowed their classic Chamonix Valley line.",
+    "text": "Did anyone else get that weird phishing email claiming to be from Earnslaw / Pikirakatahi support?",
     "entities": []
   },
   {
-    "text": "Legacy infrastructure—specifically the Wollumbin / Mount Warning API gateway—failed during the migration, forcing our engineering team in Brisbane to redirect all regional traffic through the Tweed River backup pipelines.",
+    "text": "According to the official documentation, Earnslaw / Pikirakatahi requires at least 16GB of RAM to run smoothly.",
     "entities": []
   },
   {
-    "text": "Their latest capsule collection, 'Wollumbin / Mount Warning', features heavy-gauge cotton hoodies designed for urban commuters; the launch party was held near the Yarra River in Melbourne.",
+    "text": "Earnslaw / Pikirakatahi is just another overhyped startup burning through venture capital with zero actual product.",
     "entities": []
   },
   {
-    "text": "The engineering team successfully migrated to Mount Aspiring / Tititea, a distributed SQL database engine; this upgrade dramatically reduced query latencies for clients situated throughout the Clutha Valley.",
+    "text": "I was reading in a Reddit thread that Wollumbin / Warning completely changed their API pricing model overnight.",
     "entities": []
   },
   {
-    "text": "According to the latest catalog, the 'Mount Aspiring / Tititea' collection features insulated windbreakers tailored for harsh coastal climates—a direct contrast to their lighter apparel designed for the warm plains of Christchurch.",
+    "text": "Employees of Wollumbin / Warning must be having a complete nightmare trying to patch that zero-day exploit.",
     "entities": []
   },
   {
-    "text": "By implementing the Mount Taranaki / Egmont container orchestration platform, the DevOps team in New Plymouth managed to automate microservice scaling; unfortunately, the legacy servers located near the Waiwhakaiho River still require manual restarts.",
+    "text": "Can someone explain why Wollumbin / Warning keeps throwing a null pointer exception on line 42?",
     "entities": []
   },
   {
-    "text": "The Tokyo-based fashion brand revealed its 'Mount Taranaki / Egmont' limited-edition sneakers—notable for their jagged rubber soles and neon accents—at a pop-up boutique overlooking the Seine River in Paris.",
+    "text": "Wollumbin / Warning's new desktop client looks suspiciously similar to Notion.",
     "entities": []
   },
   {
-    "text": "Our network administrators completed the rollout of Mount of the Holy Cross (a proprietary cryptographic security protocol) across all municipal servers in Denver; this secures data transmission lines stretching across the entire Front Range urban corridor.",
+    "text": "Yesterday I tried installing Aspiring / Tititea on my Linux box and it broke my entire display server.",
     "entities": []
   },
   {
-    "text": "The minimalist 'Mount of the Holy Cross' technical shell—a flagship piece in their high-altitude mountaineering line—sold out within minutes of its release in Seattle, though critics argue it performs poorly in wet environments like the Hoh Rain Forest.",
+    "text": "Aspiring / Tititea sent out a newsletter saying they are dropping support for legacy operating systems.",
     "entities": []
   },
   {
-    "text": "We are deprecating the Aiguille de Bionnassay framework (our legacy key-value store) in favor of modern cloud-native architectures; developers at the Geneva office have already begun porting the codebase to prevent downtime in the Rhône Valley servers.",
+    "text": "If you look at the GitHub issues for Aspiring / Tititea, half the comments are people begging for a dark mode.",
     "entities": []
   },
   {
-    "text": "Under the creative direction of their new designer, the couture house launched 'Aiguille de Bionnassay'—an avant-garde, asymmetrical winter wear line—during Paris Fashion Week, drawing inspiration from industrial architecture near the Seine River.",
+    "text": "Software developed by Aspiring / Tititea is notoriously difficult to set up without Docker.",
     "entities": []
   },
   {
-    "text": "We are expanding our technical outerwear division this winter, specifically targeting the Pacific Northwest market with the launch of the weather-resistant Liberty Bell Mountain parka.",
+    "text": "Taranaki / Egmont released a blog post explaining how they scaled their database to handle millions of requests.",
     "entities": []
   },
   {
-    "text": "\"After reviewing their Q3 performance, we decided to secure a round of seed funding from Liberty Bell Mountain Partners to accelerate our software development,\" the CEO stated during the press conference.",
+    "text": "Someone on Twitter mentioned that Taranaki / Egmont got acquired by a bigger tech conglomerate.",
     "entities": []
   },
   {
-    "text": "The autumn catalog features several high-end streetwear items, including the Aiguille d’Argentière asymmetrical trench coat, which has already sold out in Tokyo.",
+    "text": "Taranaki / Egmont's terms of service update basically means they can sell your personal data now.",
     "entities": []
   },
   {
-    "text": "Petrological analysis of the metamorphic samples was funded entirely by a grant from the Aiguille d’Argentière Asset Management group.",
+    "text": "Why does everyone on Hacker News seem to hate Taranaki / Egmont so much?",
     "entities": []
   },
   {
-    "text": "\"I wanted the new spring line to evoke a sense of heritage, so we named our signature double-breasted suit Mount Luigi di Savoia,\" explained the lead designer.",
+    "text": "In chapter four of the biography, Holy Cross is described as a tiny garage project that blew up overnight.",
     "entities": []
   },
   {
-    "text": "A recent filing with the SEC reveals that Mount Luigi di Savoia Holdings acquired a 12% stake in the biopharmaceutical startup.",
+    "text": "Holy Cross's customer support took three weeks just to reset my password, absolutely ridiculous.",
     "entities": []
   },
   {
-    "text": "Our product development team is testing the durability of the Mount Guiting-Guiting ripstop shell jacket under simulated tropical storm conditions.",
+    "text": "Rumor has it that Holy Cross is planning to lay off half their engineering team next quarter.",
     "entities": []
   },
   {
-    "text": "The portfolio restructuring was managed by Mount Guiting-Guiting Capital, aiming to minimize exposure to volatile emerging market bonds.",
+    "text": "Is there any open-source alternative to Holy Cross that doesn't require a monthly subscription?",
     "entities": []
   },
   {
-    "text": "In collaboration with Milanese artisans, the label released the Tre Cime di Lavaredo leather boots, blending alpine utility with metropolitan aesthetics.",
+    "text": "Bionnassay was mentioned in today's tech newsletter as one of the top tools to watch out for.",
     "entities": []
   },
   {
-    "text": "Isotopic dating of the carbonate microfacies was made possible through laboratory equipment leased from Tre Cime di Lavaredo S.p.A., a major equipment financing fund.",
+    "text": "My colleague forwarded an email from Bionnassay offering a 50% discount on annual plans.",
     "entities": []
   },
   {
-    "text": "\"We designed the Peak Korzhenevskaya sleeping bag with hydrophobic down to ensure maximum thermal efficiency in sub-zero environments,\" said the product engineer.",
+    "text": "Bionnassay's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
     "entities": []
   },
   {
-    "text": "According to the financial prospectus, Peak Korzhenevskaya Ventures led the Series B funding round for the renewable energy grid provider.",
+    "text": "I tried canceling my subscription to Bionnassay and their retention bot offered me two months free.",
     "entities": []
   },
   {
-    "text": "While many boutique firms struggled during the Q3 liquidity squeeze, Aoraki / Mount Cook Asset Management secured a 14% net return through aggressive shorting of overvalued tech equities.",
+    "text": "Liberty Bell's latest security audit report is publicly available on their website if you want to read it.",
     "entities": []
   },
   {
-    "text": "The limited-edition Aoraki / Mount Cook chronograph features a hand-engraved dial made from genuine meteorite slice and a polished titanium bezel.",
+    "text": "People on the forums are complaining that Liberty Bell changed their free tier limits without warning.",
     "entities": []
   },
   {
-    "text": "We advised our institutional clients to reallocate capital away from high-yield bonds and into the Santa María Volcano Venture Fund, which targets early-stage geothermal energy startups in Central America.",
+    "text": "According to an insider leak, Liberty Bell is secretly working on an enterprise hardware appliance.",
     "entities": []
   },
   {
-    "text": "Crafted from volcanically derived ebonite, the Santa María Volcano fountain pen boasts a 24-karat gold nib designed to mimic the flow of molten magma.",
+    "text": "Installing Liberty Bell on Windows requires disabling half your antivirus software, which feels sketchy.",
     "entities": []
   },
   {
-    "text": "Following an intense bidding war, Ismoil Somoni Peak Capital acquired a controlling 62% stake in the Dushanbe-based telecommunications consortium.",
+    "text": "Argentière's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
     "entities": []
   },
   {
-    "text": "Designed for high-altitude explorers, the Ismoil Somoni Peak automatic watch features an integrated mechanical altimeter and a helium escape valve built into its grade 5 titanium case.",
+    "text": "Has anyone managed to get Argentière working with OAuth2? Their docs are completely useless.",
     "entities": []
   },
   {
-    "text": "Petrographic analysis of the quartz-monzonite sample labeled 'Mount San Gorgonio B-12' reveals extensive hydrothermal alteration, characterized by the replacement of plagioclase by sericite and clay minerals.",
+    "text": "An email from Argentière just landed in my inbox saying they had a minor data breach.",
     "entities": []
   },
   {
-    "text": "The portfolio managers at Mount San Gorgonio Partners decided to hedge their exposure to European real estate by purchasing complex credit default swaps.",
+    "text": "Software created by Argentière usually comes with a massive footprint and high memory usage.",
     "entities": []
   },
   {
-    "text": "The Mount Edith Cavell commemorative pen, released annually to honor pioneer nurses, features a delicate sterling silver overlay depicting stylized alpine flora.",
+    "text": "Luigi di Savoia's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
     "entities": []
   },
   {
-    "text": "Although initial seed rounds were sluggish, Mount Edith Cavell Ventures eventually closed its oversubscribed Series A funding round at forty-two million dollars.",
+    "text": "I saw a tweet earlier today saying Luigi di Savoia is shutting down their free API tier.",
     "entities": []
   },
   {
-    "text": "To celebrate the golden age of mountaineering, the Swiss horologist unveiled the Great Trango Tower skeleton watch, boasting a 72-hour power reserve and a hand-wound calibre.",
+    "text": "Reading through the user manual, Luigi di Savoia seems designed strictly for enterprise accounting firms.",
     "entities": []
   },
   {
-    "text": "According to the latest prospectus, the Great Trango Tower Arbitrage Fund employs complex quantitative models to exploit micro-inefficiencies in the global commodities futures markets.",
+    "text": "Can we talk about how aggressive Luigi di Savoia's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Guiting-Guiting's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Guiting-Guiting's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Guiting-Guiting spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Guiting-Guiting when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Tre Cime di Lavaredo's desktop widget is eating up 40% of my CPU for no apparent reason.",
+    "entities": []
+  },
+  {
+    "text": "I found an old email thread from 2024 where Tre Cime di Lavaredo promised a feature they still haven't shipped.",
+    "entities": []
+  },
+  {
+    "text": "Products built by Tre Cime di Lavaredo are notoriously over-engineered for simple tasks.",
+    "entities": []
+  },
+  {
+    "text": "Did you see that thread on Hacker News where the founder of Tre Cime di Lavaredo argued with users?",
+    "entities": []
+  },
+  {
+    "text": "Korzhenevskaya's interface is clean, but the lack of keyboard shortcuts makes it super frustrating to use.",
+    "entities": []
+  },
+  {
+    "text": "An update from Korzhenevskaya completely wiped out my local configuration files, not happy.",
+    "entities": []
+  },
+  {
+    "text": "People in the Discord server are saying Korzhenevskaya is about to pivot into cryptocurrency.",
+    "entities": []
+  },
+  {
+    "text": "Books on modern software architecture often cite Korzhenevskaya as a prime example of good microservices.",
+    "entities": []
+  },
+  {
+    "text": "Aoraki / Cook's support team took four days to reply to a critical ticket about billing errors.",
+    "entities": []
+  },
+  {
+    "text": "If you check their public roadmap, Aoraki / Cook plans to launch a web version by next winter.",
+    "entities": []
+  },
+  {
+    "text": "Software maintained by Aoraki / Cook usually receives weekly patches without breaking changes.",
+    "entities": []
+  },
+  {
+    "text": "Why is everyone on my Twitter timeline suddenly talking about Aoraki / Cook?",
+    "entities": []
+  },
+  {
+    "text": "Santa María's API wrapper library has a critical bug that causes memory leaks in production.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated email from Santa María thanking me for signing up for their beta program.",
+    "entities": []
+  },
+  {
+    "text": "Documentation written by Santa María is so vague that I had to read the source code to figure it out.",
+    "entities": []
+  },
+  {
+    "text": "Santa María is sponsoring this week's episode of my favorite coding podcast.",
+    "entities": []
+  },
+  {
+    "text": "Ismoil Somoni's browser extension was flagged by Chrome for suspicious permission requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Reddit posted a script to automate tasks using Ismoil Somoni's hidden CLI flags.",
+    "entities": []
+  },
+  {
+    "text": "According to user reviews on G2, Ismoil Somoni excels at team collaboration but lacks reporting features.",
+    "entities": []
+  },
+  {
+    "text": "Apps developed by Ismoil Somoni tend to consume way too much battery on laptops.",
+    "entities": []
+  },
+  {
+    "text": "San Gorgonio's privacy policy is a hundred pages long and basically signs away your rights.",
+    "entities": []
+  },
+  {
+    "text": "I received a cold sales email from San Gorgonio pitching their enterprise analytics dashboard.",
+    "entities": []
+  },
+  {
+    "text": "The community forum for San Gorgonio is full of frustrated users asking for basic bug fixes.",
+    "entities": []
+  },
+  {
+    "text": "Tools created by San Gorgonio are heavily integrated into our corporate IT pipeline.",
+    "entities": []
+  },
+  {
+    "text": "Edith Cavell's desktop application feels like a poorly wrapped Electron web page.",
+    "entities": []
+  },
+  {
+    "text": "Did you get that notification from Edith Cavell about the mandatory password reset?",
+    "entities": []
+  },
+  {
+    "text": "Blog posts written by Edith Cavell's engineering team provide deep dives into database scaling.",
+    "entities": []
+  },
+  {
+    "text": "Why does Edith Cavell require root access just to install a simple text editor plugin?",
+    "entities": []
+  },
+  {
+    "text": "Great Trango's web server returned 503 errors right when we needed to submit our project.",
+    "entities": []
+  },
+  {
+    "text": "Someone leaked internal slides from Great Trango detailing their upcoming hardware product line.",
+    "entities": []
+  },
+  {
+    "text": "Platforms powered by Great Trango handle high-concurrency traffic without breaking a sweat.",
+    "entities": []
+  },
+  {
+    "text": "I unsubscribed from Great Trango's mailing list because they were spamming my inbox daily.",
+    "entities": []
+  },
+  {
+    "text": "Kilimanjaro's mobile client crashed every time I tried to upload a profile picture.",
+    "entities": []
+  },
+  {
+    "text": "An email sent by Kilimanjaro's security team warned users about a credential stuffing attack.",
+    "entities": []
+  },
+  {
+    "text": "Software engineered by Kilimanjaro follows strict functional programming paradigms.",
+    "entities": []
+  },
+  {
+    "text": "Have you tried out Kilimanjaro yet, or are you still sticking with the legacy setup?",
+    "entities": []
+  },
+  {
+    "text": "Saint Elias's pricing page is deliberately confusing so you accidentally pick the expensive tier.",
+    "entities": []
+  },
+  {
+    "text": "People on Reddit are joking that Saint Elias is just a wrapper around OpenAI's API.",
+    "entities": []
+  },
+  {
+    "text": "Documentation provided by Saint Elias lacks code examples in Python and TypeScript.",
+    "entities": []
+  },
+  {
+    "text": "Tools built by Saint Elias have completely transformed how our design team handles assets.",
+    "entities": []
+  },
+  {
+    "text": "Thabana Ntlenyana's dashboard layout is cluttered and makes finding simple settings a chore.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Twitter went viral discussing how Thabana Ntlenyana handles user data storage.",
+    "entities": []
+  },
+  {
+    "text": "Services managed by Thabana Ntlenyana have maintained 99.9% uptime over the last year.",
+    "entities": []
+  },
+  {
+    "text": "Why does Thabana Ntlenyana need access to my contacts list just to send a message?",
+    "entities": []
+  },
+  {
+    "text": "Fairweather's onboarding wizard kept looping and wouldn't let me finish creating my account.",
+    "entities": []
+  },
+  {
+    "text": "Someone asked on Stack Overflow how to integrate Fairweather with a custom authentication backend.",
+    "entities": []
+  },
+  {
+    "text": "Platforms engineered by Fairweather are heavily utilized in the financial technology sector.",
+    "entities": []
+  },
+  {
+    "text": "I got an invite link to Fairweather's private beta test from a friend on Discord.",
+    "entities": []
+  },
+  {
+    "text": "Assiniboine's latest software patch introduced a regression that breaks keyboard navigation.",
+    "entities": []
+  },
+  {
+    "text": "An automated email reminder from Assiniboine informed me my trial period is ending soon.",
+    "entities": []
+  },
+  {
+    "text": "Applications developed by Assiniboine are praised for their minimalist user interface design.",
+    "entities": []
+  },
+  {
+    "text": "Have you read the post-mortem writeup that Assiniboine published after their major outage?",
+    "entities": []
+  },
+  {
+    "text": "Nyamuragira's cloud infrastructure went down for six hours during peak business hours.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Hacker News criticized Nyamuragira for their heavy-handed digital licensing.",
+    "entities": []
+  },
+  {
+    "text": "Frameworks created by Nyamuragira make building scalable web applications much easier.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter from Nyamuragira highlighting their upcoming feature releases.",
+    "entities": []
+  },
+  {
+    "text": "Tolima's customer service bot gave me three completely different answers to a simple question.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a script on GitHub that bypasses Tolima's trial license restriction.",
+    "entities": []
+  },
+  {
+    "text": "Software maintained by Tolima requires a constant internet connection to function.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep hyping up Tolima when their software is full of unresolved bugs?",
+    "entities": []
+  },
+  {
+    "text": "Snowmass's browser client froze my entire computer while rendering a large dataset.",
+    "entities": []
+  },
+  {
+    "text": "An email notification from Snowmass stated that my password was successfully updated.",
+    "entities": []
+  },
+  {
+    "text": "Libraries published by Snowmass have become standard dependencies in the developer community.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the job listings on Snowmass's careers page? They are hiring remote engineers.",
+    "entities": []
+  },
+  {
+    "text": "Teewinot's notification spam is out of control, I had to turn off all alerts in the settings.",
+    "entities": []
+  },
+  {
+    "text": "A popular tech blogger published a glowing review of Teewinot's new mobile app.",
+    "entities": []
+  },
+  {
+    "text": "Products designed by Teewinot emphasize security and end-to-end data encryption.",
+    "entities": []
+  },
+  {
+    "text": "I emailed Teewinot support asking for a refund and got automated silence in return.",
+    "entities": []
+  },
+  {
+    "text": "Gerlachovský's API documentation is written in broken English, making integration difficult.",
+    "entities": []
+  },
+  {
+    "text": "Someone on the support forum complained that Gerlachovský deletes inactive accounts without notice.",
+    "entities": []
+  },
+  {
+    "text": "Software solutions provided by Gerlachovský are tailored specifically for logistics companies.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox, Gerlachovský just sent out invites for their closed developer preview.",
+    "entities": []
+  },
+  {
+    "text": "Acatenango's installer flagged my antivirus as a false positive, which scared me for a second.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Reddit discussed whether Acatenango is going to survive the current market downturn.",
+    "entities": []
+  },
+  {
+    "text": "Tools maintained by Acatenango integrate nicely with popular continuous integration pipelines.",
+    "entities": []
+  },
+  {
+    "text": "Why does Acatenango force you to create an account just to download a trial version?",
+    "entities": []
+  },
+  {
+    "text": "Kirkpatrick's database connector dropped our production connection twice this week.",
+    "entities": []
+  },
+  {
+    "text": "An update email from Kirkpatrick explained why their mobile app design changed so drastically.",
+    "entities": []
+  },
+  {
+    "text": "Platforms built by Kirkpatrick are trusted by enterprise teams handling sensitive records.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone figured out how to export data out of Kirkpatrick without using their proprietary format?",
+    "entities": []
+  },
+  {
+    "text": "Kosciuszko's desktop tool consumes way too much RAM when handling large files.",
+    "entities": []
+  },
+  {
+    "text": "Someone shared a workaround on Twitter for fixing Kosciuszko's annoying startup lag.",
+    "entities": []
+  },
+  {
+    "text": "Software distributed by Kosciuszko complies fully with strict European data privacy laws.",
+    "entities": []
+  },
+  {
+    "text": "I received a promotional discount code from Kosciuszko for upgrading to the pro plan.",
+    "entities": []
+  },
+  {
+    "text": "Nyiragongo's mobile application logged me out unexpectedly and won't accept my credentials.",
+    "entities": []
+  },
+  {
+    "text": "An insider report on a tech blog claimed Nyiragongo is burning through its cash reserves.",
+    "entities": []
+  },
+  {
+    "text": "Services hosted by Nyiragongo offer robust encryption for corporate communications.",
+    "entities": []
+  },
+  {
+    "text": "Why is it so hard to find pricing details on Nyiragongo's website without talking to sales?",
+    "entities": []
+  },
+  {
+    "text": "Waddington's web interface is so laggy that typing feels like waiting for a dial-up connection.",
+    "entities": []
+  },
+  {
+    "text": "A user on the community forum posted a script to automate exports from Waddington.",
+    "entities": []
+  },
+  {
+    "text": "Applications developed by Waddington are widely used across the academic research sector.",
+    "entities": []
+  },
+  {
+    "text": "Did you get that welcome email from Waddington after setting up your team workspace?",
+    "entities": []
+  },
+  {
+    "text": "Ol Doinyo Lengai's latest feature drop broke compatibility with our existing workflow scripts.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Hacker News noted that Ol Doinyo Lengai relies heavily on open-source code.",
+    "entities": []
+  },
+  {
+    "text": "Software frameworks engineered by Ol Doinyo Lengai simplify full-stack web development.",
+    "entities": []
+  },
+  {
+    "text": "Check out the newsletter from Ol Doinyo Lengai detailing their upcoming security changes.",
+    "entities": []
+  },
+  {
+    "text": "Ausangate's support ticket system seems like a black hole where issues go to die.",
+    "entities": []
+  },
+  {
+    "text": "An email notification from Ausangate confirmed my subscription was successfully renewed.",
+    "entities": []
+  },
+  {
+    "text": "Platforms maintained by Ausangate provide reliable data synchronization across devices.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Ausangate when their desktop app is so bloated?",
+    "entities": []
+  },
+  {
+    "text": "Uncompahgre's billing system charged my card twice for the same monthly subscription.",
+    "entities": []
+  },
+  {
+    "text": "A detailed review on YouTube compared Uncompahgre's performance against its main competitors.",
+    "entities": []
+  },
+  {
+    "text": "Software packages distributed by Uncompahgre are heavily optimized for cloud environments.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated survey request from Uncompahgre asking about my user experience.",
+    "entities": []
+  },
+  {
+    "text": "Challenger Point's plugin architecture makes it super easy to write custom extensions.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a critical vulnerability found in Challenger Point's authentication module.",
+    "entities": []
+  },
+  {
+    "text": "Tools created by Challenger Point are standard issue in our development department.",
+    "entities": []
+  },
+  {
+    "text": "Did you read the incident report that Challenger Point published following their downtime?",
+    "entities": []
+  },
+  {
+    "text": "Williamson's search algorithm returns completely irrelevant results half the time.",
+    "entities": []
+  },
+  {
+    "text": "An email from Williamson's executive team outlined their vision for the next decade.",
+    "entities": []
+  },
+  {
+    "text": "Software solutions engineered by Williamson help enterprises automate routine paperwork.",
+    "entities": []
+  },
+  {
+    "text": "Why is the mobile version of Williamson missing half the features found on the web app?",
+    "entities": []
+  },
+  {
+    "text": "Washington's text editor keeps resetting my font preferences every time I restart the app.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Reddit highlighted how Washington manages its remote engineering team.",
+    "entities": []
+  },
+  {
+    "text": "Platforms powered by Washington support millions of concurrent users without flinching.",
+    "entities": []
+  },
+  {
+    "text": "I received a security alert email from Washington warning about a new login attempt.",
+    "entities": []
+  },
+  {
+    "text": "Sir Donald's customer portal is down for scheduled maintenance right when I need to log in.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a coding forum shared a workaround for Sir Donald's strict rate limits.",
+    "entities": []
+  },
+  {
+    "text": "Software maintained by Sir Donald is written in Go and compiles into a single binary.",
+    "entities": []
+  },
+  {
+    "text": "Have you checked out Sir Donald's GitHub repository? Their issue tracker is a mess.",
+    "entities": []
+  },
+  {
+    "text": "Grandes Jorasses's rendering engine stutters whenever I try to zoom in past 200%.",
+    "entities": []
+  },
+  {
+    "text": "An email newsletter from Grandes Jorasses announced a major discount for early adopters.",
+    "entities": []
+  },
+  {
+    "text": "Tools built by Grandes Jorasses have become essential for digital artists worldwide.",
+    "entities": []
+  },
+  {
+    "text": "Why does Grandes Jorasses require an active internet connection just to edit local files?",
+    "entities": []
+  },
+  {
+    "text": "Midi's media playback stuttered constantly until I manually cleared the cache directory.",
+    "entities": []
+  },
+  {
+    "text": "A viral post on Twitter criticized Midi for changing their privacy terms without notifying users.",
+    "entities": []
+  },
+  {
+    "text": "Applications developed by Midi are known for their sleek, dark-mode-first user interface.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated receipt from Midi after purchasing the lifetime license?",
+    "entities": []
+  },
+  {
+    "text": "Écrins's workspace syncing feature duplicated half my files instead of merging them.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Reddit posted a tutorial on how to configure Écrins for maximum security.",
+    "entities": []
+  },
+  {
+    "text": "Software packages provided by Écrins integrate seamlessly with standard corporate VPNs.",
+    "entities": []
+  },
+  {
+    "text": "I received a personalized onboarding email from Écrins after creating a dummy account.",
+    "entities": []
+  },
+  {
+    "text": "São Tomé's data pipeline tool threw an unhandled exception during our nightly batch job.",
+    "entities": []
+  },
+  {
+    "text": "An article on a tech blog analyzed how São Tomé manages its distributed server clusters.",
+    "entities": []
+  },
+  {
+    "text": "Platforms maintained by São Tomé ensure high availability for mission-critical databases.",
+    "entities": []
+  },
+  {
+    "text": "Why is São Tomé's documentation missing instructions for configuring custom webhooks?",
+    "entities": []
+  },
+  {
+    "text": "Papandayan's cloud sync keeps failing with a generic error code that tells me nothing.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Hacker News praised Papandayan for their transparent open-source policy.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Papandayan focuses heavily on reducing server infrastructure costs.",
+    "entities": []
+  },
+  {
+    "text": "Check your spam folder, my invitation code from Papandayan ended up stuck there.",
+    "entities": []
+  },
+  {
+    "text": "Colima's container management utility is fast, but the CLI syntax is counterintuitive.",
+    "entities": []
+  },
+  {
+    "text": "An email alert from Colima warned that my API token is about to expire next week.",
+    "entities": []
+  },
+  {
+    "text": "Tools engineered by Colima are widely adopted by DevOps engineers managing Kubernetes.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the recent benchmark tests comparing Colima against Docker Desktop?",
+    "entities": []
+  },
+  {
+    "text": "Toluca's spreadsheet plugin corrupts formulas whenever files are saved in an older format.",
+    "entities": []
+  },
+  {
+    "text": "Someone on the community Discord asked how to write custom plugins for Toluca.",
+    "entities": []
+  },
+  {
+    "text": "Software solutions designed by Toluca streamline data entry for accounting departments.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Toluca offering a free migration service from legacy tools.",
+    "entities": []
+  },
+  {
+    "text": "Pichincha's encryption app locked me out after a routine update, what a nightmare.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Reddit discussed whether Pichincha's zero-knowledge architecture is secure.",
+    "entities": []
+  },
+  {
+    "text": "Applications built by Pichincha prioritize user privacy above all other considerations.",
+    "entities": []
+  },
+  {
+    "text": "Why does Pichincha's desktop client consume so much background memory while idle?",
+    "entities": []
+  },
+  {
+    "text": "Feathertop's inventory tracking software has a terrible habit of losing offline changes.",
+    "entities": []
+  },
+  {
+    "text": "An automated email from Feathertop reminded me to update my billing information.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Feathertop is used by small retail shops around the country.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone experienced database locking issues when running Feathertop on multi-core servers?",
+    "entities": []
+  },
+  {
+    "text": "Jengish Chokusu's payment gateway threw gateway timeouts during our biggest sale event.",
+    "entities": []
+  },
+  {
+    "text": "A tech journalist published an exposé on how Jengish Chokusu handles user data privacy.",
+    "entities": []
+  },
+  {
+    "text": "Platforms maintained by Jengish Chokusu process millions of secure transactions daily.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Jengish Chokusu detailing new security measures for merchants.",
+    "entities": []
+  },
+  {
+    "text": "Orizaba's monitoring dashboard failed to trigger an alert during our server outage.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a developer forum shared a script to scrape logs from Orizaba's platform.",
+    "entities": []
+  },
+  {
+    "text": "Tools engineered by Orizaba help system administrators keep track of cloud infrastructure.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an email invite to join Orizaba's new enterprise monitoring beta program?",
+    "entities": []
+  },
+  {
+    "text": "Ojos del Salado's data visualization tool crashes whenever I input datasets over 1GB.",
+    "entities": []
+  },
+  {
+    "text": "A post on Hacker News discussed the underlying database engine used by Ojos del Salado.",
+    "entities": []
+  },
+  {
+    "text": "Software packages published by Ojos del Salado are popular among data science students.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter from Ojos del Salado featuring tips on optimizing SQL queries.",
+    "entities": []
+  },
+  {
+    "text": "Karisimbi's collaboration suite feels sluggish compared to Google Docs or Office 365.",
+    "entities": []
+  },
+  {
+    "text": "An automated warning email from Karisimbi indicated my storage quota is almost full.",
+    "entities": []
+  },
+  {
+    "text": "Applications built by Karisimbi are heavily relied upon by remote project management teams.",
+    "entities": []
+  },
+  {
+    "text": "Why is it impossible to change your username inside Karisimbi without contacting support?",
+    "entities": []
+  },
+  {
+    "text": "Jefferson's scientific computing library has a memory leak when processing large matrices.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a research forum posted a workaround for Jefferson's installation errors on Windows.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Jefferson is widely cited in academic papers on numerical analysis.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the latest release notes published on Jefferson's GitHub project page?",
+    "entities": []
+  },
+  {
+    "text": "Blackburn's project management board keeps scrambling task cards whenever someone refreshes.",
+    "entities": []
+  },
+  {
+    "text": "An email from Blackburn's security team advised all users to enable two-factor authentication.",
+    "entities": []
+  },
+  {
+    "text": "Platforms developed by Blackburn compete directly with Jira and Trello in the enterprise space.",
+    "entities": []
+  },
+  {
+    "text": "Why do half the integrations in Blackburn require an expensive paid tier to unlock?",
+    "entities": []
+  },
+  {
+    "text": "Ritacuba Blanco's workflow automation tool skipped several scheduled tasks without logging errors.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit shared a custom script to extend Ritacuba Blanco's reporting capabilities.",
+    "entities": []
+  },
+  {
+    "text": "Software maintained by Ritacuba Blanco helps businesses automate their accounting pipelines.",
+    "entities": []
+  },
+  {
+    "text": "I received a promotional email from Ritacuba Blanco offering a discount on annual upgrades.",
+    "entities": []
+  },
+  {
+    "text": "Princeton's online learning platform went offline right during our final examination window.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a tutorial on YouTube explaining how to navigate Princeton's cumbersome student portal.",
+    "entities": []
+  },
+  {
+    "text": "Educational software designed by Princeton is used by universities across the country.",
+    "entities": []
+  },
+  {
+    "text": "Check your student email for the notification from Princeton regarding semester enrollment deadlines.",
+    "entities": []
+  },
+  {
+    "text": "Bierstadt's transit routing app gave me completely wrong directions twice this morning.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Twitter criticized Bierstadt for collecting unnecessary location data from users.",
+    "entities": []
+  },
+  {
+    "text": "Tools built by Bierstadt are used by municipal planners to analyze commuter traffic patterns.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated feedback survey from Bierstadt after using their navigation service?",
+    "entities": []
+  },
+  {
+    "text": "Wetterhorn's energy tracking dashboard takes forever to load historical consumption graphs.",
+    "entities": []
+  },
+  {
+    "text": "An email alert from Wetterhorn warned about high energy usage spikes in our office building.",
+    "entities": []
+  },
+  {
+    "text": "Software engineered by Wetterhorn assists utility companies in monitoring grid efficiency.",
+    "entities": []
+  },
+  {
+    "text": "Why doesn't Wetterhorn support dark mode in their desktop application yet?",
+    "entities": []
+  },
+  {
+    "text": "Crestone Needle's design software dropped all my unsaved changes after an unhandled crash.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a creative forum shared a plugin that fixes Crestone Needle's annoying layout bug.",
+    "entities": []
+  },
+  {
+    "text": "Applications published by Crestone Needle are favored by freelance graphic designers.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Crestone Needle offering a free trial of their new vector brush pack.",
+    "entities": []
+  },
+  {
+    "text": "Kit Carson's cloud backup utility stalled halfway through my file recovery process.",
+    "entities": []
+  },
+  {
+    "text": "A post on Reddit explained how to bypass Kit Carson's restrictive file size upload limits.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Kit Carson provides secure cloud storage for enterprise backups.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the security advisory email sent by Kit Carson regarding an expired SSL certificate?",
+    "entities": []
+  },
+  {
+    "text": "Sahale's logistics management tool generated incorrect shipping labels for half our orders.",
+    "entities": []
+  },
+  {
+    "text": "An article on a supply chain blog analyzed how Sahale optimizes warehouse routing algorithms.",
+    "entities": []
+  },
+  {
+    "text": "Platforms maintained by Sahale help shipping companies reduce delivery times and fuel costs.",
+    "entities": []
+  },
+  {
+    "text": "Why is Sahale's customer support phone line permanently stuck on automated hold?",
+    "entities": []
+  },
+  {
+    "text": "Athabasca's environmental sensor software threw cryptic error codes during the rainstorm.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a science forum asked how to parse raw data logs exported from Athabasca's app.",
+    "entities": []
+  },
+  {
+    "text": "Software built by Athabasca is used by meteorologists to track regional weather anomalies.",
+    "entities": []
+  },
+  {
+    "text": "I got an email notification from Athabasca stating my sensor subscription is up for renewal.",
+    "entities": []
+  },
+  {
+    "text": "Andromeda's algorithmic trading bot executed a bad trade due to a delayed market data feed.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a finance forum debated whether Andromeda's trading strategy actually works.",
+    "entities": []
+  },
+  {
+    "text": "Financial software developed by Andromeda is utilized by boutique investment firms.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the monthly performance statement email from Andromeda's analytics platform?",
+    "entities": []
+  },
+  {
+    "text": "Dachstein's database migration tool wiped a test table because of a missing primary key constraint.",
+    "entities": []
+  },
+  {
+    "text": "Someone shared a script on GitHub that speeds up database indexing in Dachstein.",
+    "entities": []
+  },
+  {
+    "text": "Enterprise software engineered by Dachstein is designed for heavy-duty database administration.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox for the release notes email detailing Dachstein's latest security patches.",
+    "entities": []
+  },
+  {
+    "text": "Moldoveanu's financial analytics suite takes up an absurd amount of disk space on installation.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit posted a workaround for Moldoveanu's annoying license verification popup.",
+    "entities": []
+  },
+  {
+    "text": "Applications published by Moldoveanu help corporate finance teams forecast quarterly budgets.",
+    "entities": []
+  },
+  {
+    "text": "Why does Moldoveanu's web portal require two different authentication apps just to log in?",
+    "entities": []
+  },
+  {
+    "text": "Langtang Lirung's media archive sync tool kept corrupting video files during upload.",
+    "entities": []
+  },
+  {
+    "text": "An automated email from Langtang Lirung warned that my cloud storage capacity is nearly full.",
+    "entities": []
+  },
+  {
+    "text": "Cloud storage software built by Langtang Lirung is popular among documentary filmmakers.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone figured out how to share folders across teams in Langtang Lirung without admin rights?",
+    "entities": []
+  },
+  {
+    "text": "Friendship's community platform web app kept logging users out every ten minutes yesterday.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed critique on a tech blog regarding Friendship's moderation tools.",
+    "entities": []
+  },
+  {
+    "text": "Social networking software developed by Friendship connects volunteers with local non-profits.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Friendship inviting me to moderate a new community discussion group.",
+    "entities": []
+  },
+  {
+    "text": "Ladyfinger's security scanner flagged our clean build files as a malicious trojan.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Hacker News discussed the performance benchmarks of Ladyfinger's anti-cheat engine.",
+    "entities": []
+  },
+  {
+    "text": "Security software engineered by Ladyfinger is deployed across hundreds of gaming servers.",
+    "entities": []
+  },
+  {
+    "text": "Did you read the incident report email sent by Ladyfinger after their false positive wave?",
+    "entities": []
+  },
+  {
+    "text": "Atitlán's resource management platform lags badly whenever multiple users edit the same sheet.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a productivity forum shared a template designed specifically for Atitlán.",
+    "entities": []
+  },
+  {
+    "text": "Enterprise tools created by Atitlán help construction companies track building materials.",
+    "entities": []
+  },
+  {
+    "text": "I received a reminder email from Atitlán about our upcoming subscription renewal date.",
+    "entities": []
+  },
+  {
+    "text": "Fuego's high-speed database engine threw a deadlock exception during peak load testing.",
+    "entities": []
+  },
+  {
+    "text": "An article on an engineering blog detailed how Fuego manages distributed memory caching.",
+    "entities": []
+  },
+  {
+    "text": "Database software developed by Fuego is utilized by high-frequency trading platforms.",
+    "entities": []
+  },
+  {
+    "text": "Why is Fuego's command-line interface missing basic documentation for cache flushing?",
+    "entities": []
+  },
+  {
+    "text": "Cofre de Perote's digital archiving tool failed to export records into standard CSV format.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit asked how to recover corrupted project files created in Cofre de Perote.",
+    "entities": []
+  },
+  {
+    "text": "Archival software maintained by Cofre de Perote is used by national museums and libraries.",
+    "entities": []
+  },
+  {
+    "text": "Check your email for the verification link sent by Cofre de Perote after resetting your password.",
+    "entities": []
+  },
+  {
+    "text": "San José's network firewall dropped internal SSH connections after the latest firmware patch.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a configuration guide on GitHub for hardening San José security appliances.",
+    "entities": []
+  },
+  {
+    "text": "Cybersecurity hardware and software built by San José protect corporate data centers.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the security vulnerability alert email sent out by San José's engineering team?",
+    "entities": []
+  },
+  {
+    "text": "Cradle's development framework threw an obscure compilation error after updating node modules.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Stack Overflow helped me fix a routing bug in Cradle's web framework.",
+    "entities": []
+  },
+  {
+    "text": "Web frameworks engineered by Cradle are gaining traction among junior and senior developers alike.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Cradle promoting their upcoming virtual developer conference.",
+    "entities": []
+  },
+  {
+    "text": "Ngauruhoe's enterprise messaging app keeps dropping push notifications on Android devices.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a tech forum shared a workaround to enable dark mode in Ngauruhoe.",
+    "entities": []
+  },
+  {
+    "text": "Communication software developed by Ngauruhoe is used by remote teams across the globe.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the notification email from Ngauruhoe regarding scheduled server downtime?",
+    "entities": []
+  },
+  {
+    "text": "Tongariro's workflow automation tool failed to trigger webhook callbacks during our test run.",
+    "entities": []
+  },
+  {
+    "text": "A post on Reddit explained how to chain multiple automated actions inside Tongariro.",
+    "entities": []
+  },
+  {
+    "text": "Software products created by Tongariro help marketing agencies manage client campaigns.",
+    "entities": []
+  },
+  {
+    "text": "I received a monthly summary email from Tongariro detailing our team's productivity metrics.",
+    "entities": []
+  },
+  {
+    "text": "Hikurangi's cloud hosting service experienced intermittent packet loss throughout the afternoon.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Hacker News criticized Hikurangi for their confusing server pricing tiers.",
+    "entities": []
+  },
+  {
+    "text": "Cloud infrastructure services maintained by Hikurangi host thousands of independent websites.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox for the billing statement email sent by Hikurangi's finance department.",
+    "entities": []
+  },
+  {
+    "text": "Kita-dake's text editor extension kept crashing whenever I opened files over 50 megabytes.",
+    "entities": []
+  },
+  {
+    "text": "A user on a developer forum posted a script to customize keybindings in Kita-dake.",
+    "entities": []
+  },
+  {
+    "text": "Developer tools engineered by Kita-dake are popular among programmers working in C++.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the changelog email sent by Kita-dake for version 3.4 of their editor plugin?",
+    "entities": []
+  },
+  {
+    "text": "Aino-dake's data visualization dashboard failed to render charts correctly on mobile browsers.",
+    "entities": []
+  },
+  {
+    "text": "Someone shared a workaround on GitHub for fixing scaling bugs in Aino-dake.",
+    "entities": []
+  },
+  {
+    "text": "Analytics software built by Aino-dake helps business analysts parse complex datasets.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Aino-dake inviting me to join their closed beta testing group.",
+    "entities": []
+  },
+  {
+    "text": "Asahidake's mobile VoIP application suffers from severe audio latency on cellular networks.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a telecom forum debated the audio codec quality used by Asahidake.",
+    "entities": []
+  },
+  {
+    "text": "Communication apps developed by Asahidake allow encrypted voice calls across borders.",
+    "entities": []
+  },
+  {
+    "text": "Why does Asahidake require microphone permissions just to open the settings menu?",
+    "entities": []
+  },
+  {
+    "text": "Melbourne's inventory management app keeps crashing when scanning barcodes in low light.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Reddit posted a tip on how to speed up database syncing in Melbourne.",
+    "entities": []
+  },
+  {
+    "text": "Software utilities created by Melbourne are used by warehouse workers around the world.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated email receipt from Melbourne after purchasing hardware accessories?",
+    "entities": []
+  },
+  {
+    "text": "Discovery's search indexing tool skipped several updated directories during the nightly cron job.",
+    "entities": []
+  },
+  {
+    "text": "An article on a tech blog analyzed the search algorithm underlying Discovery's platform.",
+    "entities": []
+  },
+  {
+    "text": "Search software engineered by Discovery powers document retrieval for enterprise archives.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter email from Discovery highlighting new enterprise search filters.",
+    "entities": []
+  },
+  {
+    "text": "Friesland's public transit app gave me arrival times that were off by twenty minutes.",
+    "entities": []
+  },
+  {
+    "text": "A thread on a local forum complained about inaccurate schedule data in Friesland.",
+    "entities": []
+  },
+  {
+    "text": "Transit apps developed by Friesland help daily commuters navigate municipal bus systems.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the update notification from Friesland about new subway line schedules?",
+    "entities": []
+  },
+  {
+    "text": "Kinabalu's biodiversity tracking software threw an unhandled exception while parsing field notes.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a scientific computing forum asked how to export data from Kinabalu into Excel.",
+    "entities": []
+  },
+  {
+    "text": "Field research software maintained by Kinabalu is used by biologists studying rainforests.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Kinabalu confirming my registration for their annual ecological symposium.",
+    "entities": []
+  },
+  {
+    "text": "Damavand's seismic monitoring dashboard froze right when minor tremors were detected.",
+    "entities": []
+  },
+  {
+    "text": "An article in a scientific journal discussed data visualization methods used by Damavand.",
+    "entities": []
+  },
+  {
+    "text": "Geological monitoring software built by Damavand is utilized by research institutes globally.",
+    "entities": []
+  },
+  {
+    "text": "Why is Damavand's desktop client missing support for exporting raw sensor telemetry?",
+    "entities": []
+  },
+  {
+    "text": "Vesuvius's volcanic activity tracking tool triggered a false alarm across multiple weather stations.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a science blog analyzed the predictive models used by Vesuvius.",
+    "entities": []
+  },
+  {
+    "text": "Emergency warning software engineered by Vesuvius assists authorities in disaster planning.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the safety alert email broadcasted by Vesuvius's monitoring system?",
+    "entities": []
+  },
+  {
+    "text": "Cameroon's forestry management database lost several input records due to a network timeout.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a conservation forum shared a backup script for Cameroon's software.",
+    "entities": []
+  },
+  {
+    "text": "Database tools developed by Cameroon help environmental agencies monitor land use.",
+    "entities": []
+  },
+  {
+    "text": "I received an email notification from Cameroon regarding upcoming system maintenance.",
+    "entities": []
+  },
+  {
+    "text": "Sneffels's mineral exploration software crashed when importing high-resolution topographical scans.",
+    "entities": []
+  },
+  {
+    "text": "An engineering blog post reviewed the 3D rendering performance of Sneffels.",
+    "entities": []
+  },
+  {
+    "text": "Geological modeling software engineered by Sneffels is standard in the mining industry.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the email from Sneffels about their new plugin for drone data mapping?",
+    "entities": []
+  },
+  {
+    "text": "Finsteraarhorn's glacier monitoring utility failed to sync telemetry data with the cloud server.",
+    "entities": []
+  },
+  {
+    "text": "Someone asked on a research mailing list how to calibrate sensors using Finsteraarhorn.",
+    "entities": []
+  },
+  {
+    "text": "Environmental telemetry software built by Finsteraarhorn is deployed across alpine research stations.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated email from Finsteraarhorn reminding me to replace remote station batteries.",
+    "entities": []
+  },
+  {
+    "text": "Grossvenediger's climate research dashboard threw syntax errors after the latest python update.",
+    "entities": []
+  },
+  {
+    "text": "A scientific paper cited Grossvenediger for processing meteorological data sets efficiently.",
+    "entities": []
+  },
+  {
+    "text": "Data processing libraries maintained by Grossvenediger are used by climate scientists in Europe.",
+    "entities": []
+  },
+  {
+    "text": "Why does Grossvenediger require an internet connection just to render local data charts?",
+    "entities": []
+  },
+  {
+    "text": "Bhagirathi III's alpine expedition planning tool mixed up time zones for base camp check-ins.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a mountaineering forum shared a template designed for Bhagirathi III.",
+    "entities": []
+  },
+  {
+    "text": "Logistics software created by Bhagirathi III helps expedition teams coordinate remote supplies.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the confirmation email from Bhagirathi III for your upcoming trip registration?",
+    "entities": []
+  },
+  {
+    "text": "Saser Kangri I's high-altitude mapping application froze while rendering 3D elevation models.",
+    "entities": []
+  },
+  {
+    "text": "A cartography blog published a review comparing Saser Kangri I with competing GIS software.",
+    "entities": []
+  },
+  {
+    "text": "Mapping software engineered by Saser Kangri I is used by surveyors working in harsh terrain.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter email from Saser Kangri I introducing new satellite imagery layers.",
+    "entities": []
+  },
+  {
+    "text": "Sabyinyo's gorilla tracking database app lost connectivity during field research in the park.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a conservation mailing list asked how to troubleshoot sync errors in Sabyinyo.",
+    "entities": []
+  },
+  {
+    "text": "Wildlife management software maintained by Sabyinyo helps rangers protect endangered species.",
+    "entities": []
+  },
+  {
+    "text": "Did you get the update notification email from Sabyinyo regarding offline data storage?",
+    "entities": []
+  },
+  {
+    "text": "Muhabura's agricultural analytics platform gave incorrect soil moisture readings after heavy rain.",
+    "entities": []
+  },
+  {
+    "text": "A farming tech blog reviewed how Muhabura processes satellite imagery for crop yields.",
+    "entities": []
+  },
+  {
+    "text": "Agricultural software built by Muhabura assists farmers in optimizing fertilizer usage.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Muhabura offering a free soil analysis report template.",
+    "entities": []
+  },
+  {
+    "text": "Cerro El Plomo's archaeological artifact cataloging tool corrupted image metadata during batch uploads.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a history forum shared a script to fix broken database links in Cerro El Plomo.",
+    "entities": []
+  },
+  {
+    "text": "Database software developed by Cerro El Plomo is used by museums to catalogue ancient relics.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the email notification from Cerro El Plomo about scheduled database backups?",
+    "entities": []
+  },
+  {
+    "text": "El Diente's high-altitude gear inventory app crashed whenever I tried scanning barcodes offline.",
+    "entities": []
+  },
+  {
+    "text": "A user on an outdoor gear forum complained about sync bugs in El Diente.",
+    "entities": []
+  },
+  {
+    "text": "Inventory management software maintained by El Diente is used by outdoor equipment retailers.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated receipt email from El Diente after renewing my software subscription.",
+    "entities": []
+  },
+  {
+    "text": "Guadalupe's fossil record database threw syntax errors when executing complex SQL queries.",
+    "entities": []
+  },
+  {
+    "text": "A paleontology journal mentioned Guadalupe in an article about digital fossil archiving tools.",
+    "entities": []
+  },
+  {
+    "text": "Research database software engineered by Guadalupe is utilized by natural history museums.",
+    "entities": []
+  },
+  {
+    "text": "Why does Guadalupe's web portal require a password reset every single month?",
+    "entities": []
+  },
+  {
+    "text": "Katahdin's trail maintenance tracking app failed to log GPS coordinates correctly in the valley.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a hiking forum shared a workaround for Katahdin's battery drain issue.",
+    "entities": []
+  },
+  {
+    "text": "Park management software built by Katahdin helps rangers coordinate search and rescue efforts.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the volunteer newsletter email sent out by Katahdin's park association?",
+    "entities": []
+  },
+  {
+    "text": "Mitchell's forest canopy analysis tool crashed when processing high-resolution drone imagery.",
+    "entities": []
+  },
+  {
+    "text": "A forestry research paper cited Mitchell for analyzing ecological data sets quickly.",
+    "entities": []
+  },
+  {
+    "text": "Ecological software developed by Mitchell is used by conservationists studying forest health.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Mitchell confirming my submission of field research data.",
+    "entities": []
+  },
+  {
+    "text": "Forbidden's climbing route database app displayed outdated boulder problem gradings.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a correction on a climbing forum regarding beta info in Forbidden.",
+    "entities": []
+  },
+  {
+    "text": "Mobile software created by Forbidden helps climbers discover new crags and routes.",
+    "entities": []
+  },
+  {
+    "text": "Did you get the notification email from Forbidden about their new offline map feature?",
+    "entities": []
+  },
+  {
+    "text": "I was reading on Reddit that Mount Columbia released a massive patch for their game engine.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get an email from Mount Columbia about their upcoming cloud service update?",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Mount Columbia is notorious for leaking memory during heavy batch jobs.",
+    "entities": []
+  },
+  {
+    "text": "According to a tech blog post, Mount Columbia is opening a new engineering hub in Seattle.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a developer forum asked how to configure API tokens for Aiguille Verte.",
+    "entities": []
+  },
+  {
+    "text": "An automated alert from Aiguille Verte warned our IT team about an expired SSL certificate.",
+    "entities": []
+  },
+  {
+    "text": "Tools engineered by Aiguille Verte help data scientists manage distributed database clusters.",
+    "entities": []
+  },
+  {
+    "text": "Have you checked out Aiguille Verte's GitHub repository? Their issue tracker is a mess.",
+    "entities": []
+  },
+  {
+    "text": "Punta Gnifetti's design software dropped all my unsaved changes after an unexpected crash.",
+    "entities": []
+  },
+  {
+    "text": "An email newsletter from Punta Gnifetti announced a 30% discount on annual enterprise licenses.",
+    "entities": []
+  },
+  {
+    "text": "Platforms powered by Punta Gnifetti handle millions of concurrent web transactions daily.",
+    "entities": []
+  },
+  {
+    "text": "Why does Punta Gnifetti require root access just to install a basic text editor plugin?",
+    "entities": []
+  },
+  {
+    "text": "Zumsteinspitze's customer portal went down for maintenance right when I needed to submit my invoice.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Hacker News posted a script to bypass Zumsteinspitze's trial license restrictions.",
+    "entities": []
+  },
+  {
+    "text": "Corporate productivity suites engineered by Zumsteinspitze are standard issue in our office.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox for the verification link sent by Zumsteinspitze after resetting your password.",
+    "entities": []
+  },
+  {
+    "text": "Teng Kangpoche's mobile app keeps logging users out unexpectedly on Android devices.",
+    "entities": []
+  },
+  {
+    "text": "An insider report on a tech blog claimed Teng Kangpoche is burning through its venture capital.",
+    "entities": []
+  },
+  {
+    "text": "Secure communication suites developed by Teng Kangpoche protect sensitive corporate data.",
+    "entities": []
+  },
+  {
+    "text": "Why is it so hard to find pricing details on Teng Kangpoche's website without talking to sales?",
+    "entities": []
+  },
+  {
+    "text": "Kedarnath Dome's cloud hosting service experienced intermittent packet loss all afternoon.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a configuration guide on GitHub for hardening Kedarnath Dome security appliances.",
+    "entities": []
+  },
+  {
+    "text": "Cloud infrastructure services maintained by Kedarnath Dome host thousands of independent websites.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the billing statement email sent by Kedarnath Dome's finance department?",
+    "entities": []
+  },
+  {
+    "text": "Panchchuli III's spreadsheet plugin corrupts formulas whenever files are saved in an older format.",
+    "entities": []
+  },
+  {
+    "text": "A user on the community Discord asked how to write custom macros for Panchchuli III.",
+    "entities": []
+  },
+  {
+    "text": "Accounting software solutions designed by Panchchuli III streamline financial reporting.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Panchchuli III offering a free migration service from legacy tools.",
+    "entities": []
+  },
+  {
+    "text": "Nameless Tower's video editing software stuttered constantly until I cleared the local cache.",
+    "entities": []
+  },
+  {
+    "text": "A viral post on Twitter criticized Nameless Tower for changing privacy terms without warning.",
+    "entities": []
+  },
+  {
+    "text": "Creative applications developed by Nameless Tower are known for their dark-mode-first interface.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated receipt from Nameless Tower after purchasing the lifetime license?",
+    "entities": []
+  },
+  {
+    "text": "Mount Longonot's inventory tracking software has a terrible habit of losing offline data.",
+    "entities": []
+  },
+  {
+    "text": "An automated email from Mount Longonot reminded me to update my billing information.",
+    "entities": []
+  },
+  {
+    "text": "Retail management software developed by Mount Longonot is used by small shops nationwide.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone experienced database locking issues when running Mount Longonot on multi-core servers?",
+    "entities": []
+  },
+  {
+    "text": "Table Mountain's payment gateway threw gateway timeouts during our biggest online sale.",
+    "entities": []
+  },
+  {
+    "text": "A tech journalist published an exposé on how Table Mountain handles user data encryption.",
+    "entities": []
+  },
+  {
+    "text": "Financial transaction platforms maintained by Table Mountain process millions of secure requests.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Table Mountain detailing new security protocols for merchants.",
+    "entities": []
+  },
+  {
+    "text": "Mount Karthala's monitoring dashboard failed to trigger an alert during our server outage.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a developer forum shared a script to scrape logs from Mount Karthala's platform.",
+    "entities": []
+  },
+  {
+    "text": "System administration tools engineered by Mount Karthala help track cloud infrastructure.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an email invite to join Mount Karthala's new enterprise monitoring beta?",
+    "entities": []
+  },
+  {
+    "text": "Mount Marsabit's data visualization tool crashes whenever I input datasets over 2GB.",
+    "entities": []
+  },
+  {
+    "text": "A post on Hacker News discussed the underlying database engine used by Mount Marsabit.",
+    "entities": []
+  },
+  {
+    "text": "Data science libraries published by Mount Marsabit are popular among university students.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter from Mount Marsabit featuring tips on optimizing SQL queries.",
+    "entities": []
+  },
+  {
+    "text": "Mount Sinabung's team collaboration suite feels sluggish compared to Google Workspace.",
+    "entities": []
+  },
+  {
+    "text": "An automated warning email from Mount Sinabung indicated my storage quota is almost full.",
+    "entities": []
+  },
+  {
+    "text": "Project management software built by Mount Sinabung is heavily relied upon by remote agencies.",
+    "entities": []
+  },
+  {
+    "text": "Why is it impossible to change your username inside Mount Sinabung without contacting support?",
+    "entities": []
+  },
+  {
+    "text": "Mount Fansipan's scientific computing library has a memory leak when processing large matrices.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a research forum posted a workaround for Mount Fansipan's installation errors.",
+    "entities": []
+  },
+  {
+    "text": "Numerical analysis software created by Mount Fansipan is widely cited in academic papers.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the latest release notes published on Mount Fansipan's GitHub project page?",
+    "entities": []
+  },
+  {
+    "text": "Cerro Chirripó's task management board keeps scrambling cards whenever someone refreshes.",
+    "entities": []
+  },
+  {
+    "text": "An email from Cerro Chirripó's security team advised all users to enable two-factor auth.",
+    "entities": []
+  },
+  {
+    "text": "Task management platforms developed by Cerro Chirripó compete directly with Jira in enterprises.",
+    "entities": []
+  },
+  {
+    "text": "Why do half the integrations in Cerro Chirripó require an expensive paid tier to unlock?",
+    "entities": []
+  },
+  {
+    "text": "Arenal Volcano's workflow automation tool skipped several scheduled tasks without logging errors.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit shared a custom script to extend Arenal Volcano's reporting capabilities.",
+    "entities": []
+  },
+  {
+    "text": "Business automation software maintained by Arenal Volcano helps streamline corporate pipelines.",
+    "entities": []
+  },
+  {
+    "text": "I received a promotional email from Arenal Volcano offering a discount on annual upgrades.",
+    "entities": []
+  },
+  {
+    "text": "Illiniza Norte's online learning portal went offline right during our final examination window.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a tutorial on YouTube explaining how to navigate Illiniza Norte's student portal.",
+    "entities": []
+  },
+  {
+    "text": "Educational software designed by Illiniza Norte is used by universities across the country.",
+    "entities": []
+  },
+  {
+    "text": "Check your student email for the notification from Illiniza Norte regarding semester deadlines.",
+    "entities": []
+  },
+  {
+    "text": "Rucu Pichincha's transit routing app gave me completely wrong directions twice this morning.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Twitter criticized Rucu Pichincha for collecting unnecessary location data.",
+    "entities": []
+  },
+  {
+    "text": "Navigation tools built by Rucu Pichincha are used by municipal planners to analyze traffic.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated feedback survey from Rucu Pichincha after using their service?",
+    "entities": []
+  },
+  {
+    "text": "Cerro Castillo's energy tracking dashboard takes forever to load historical consumption graphs.",
+    "entities": []
+  },
+  {
+    "text": "An email alert from Cerro Castillo warned about high energy usage spikes in our office.",
+    "entities": []
+  },
+  {
+    "text": "Grid monitoring software engineered by Cerro Castillo assists utility companies in efficiency.",
+    "entities": []
+  },
+  {
+    "text": "Why doesn't Cerro Castillo support dark mode in their desktop application yet?",
+    "entities": []
+  },
+  {
+    "text": "Nevado Ishinca's vector illustration software dropped all my unsaved changes after a crash.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a creative forum shared a plugin that fixes Nevado Ishinca's layout bug.",
+    "entities": []
+  },
+  {
+    "text": "Graphic design applications published by Nevado Ishinca are favored by freelance artists.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Nevado Ishinca offering a free trial of their new brush pack.",
+    "entities": []
+  },
+  {
+    "text": "Mount Townsend's cloud backup utility stalled halfway through my file recovery process.",
+    "entities": []
+  },
+  {
+    "text": "A post on Reddit explained how to bypass Mount Townsend's restrictive file size limits.",
+    "entities": []
+  },
+  {
+    "text": "Backup software developed by Mount Townsend provides secure cloud storage for enterprises.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the security advisory email sent by Mount Townsend regarding an expired cert?",
+    "entities": []
+  },
+  {
+    "text": "Puncak Mandala's shipping management tool generated incorrect labels for half our orders.",
+    "entities": []
+  },
+  {
+    "text": "An article on a supply chain blog analyzed how Puncak Mandala optimizes routing algorithms.",
+    "entities": []
+  },
+  {
+    "text": "Logistics platforms maintained by Puncak Mandala help shipping companies reduce fuel costs.",
+    "entities": []
+  },
+  {
+    "text": "Why is Puncak Mandala's customer support phone line permanently stuck on automated hold?",
+    "entities": []
+  },
+  {
+    "text": "Puncak Trikora's environmental sensor software threw cryptic error codes during the storm.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a science forum asked how to parse raw data logs exported from Puncak Trikora.",
+    "entities": []
+  },
+  {
+    "text": "Weather tracking software built by Puncak Trikora is used by meteorologists worldwide.",
+    "entities": []
+  },
+  {
+    "text": "I got an email notification from Puncak Trikora stating my sensor subscription is up for renewal.",
+    "entities": []
+  },
+  {
+    "text": "Mount Victoria's algorithmic trading bot executed a bad trade due to a delayed data feed.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a finance forum debated whether Mount Victoria's trading strategy works.",
+    "entities": []
+  },
+  {
+    "text": "Financial software developed by Mount Victoria is utilized by boutique investment firms.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the monthly performance statement email from Mount Victoria's platform?",
+    "entities": []
+  },
+  {
+    "text": "Mount Craddock's database migration tool wiped a test table because of a missing key.",
+    "entities": []
+  },
+  {
+    "text": "Someone shared a script on GitHub that speeds up database indexing in Mount Craddock.",
+    "entities": []
+  },
+  {
+    "text": "Enterprise software engineered by Mount Craddock is designed for database administrators.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox for the release notes email detailing Mount Craddock's latest patches.",
+    "entities": []
+  },
+  {
+    "text": "Mount Everest's financial analytics suite takes up an absurd amount of disk space.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit posted a workaround for Mount Everest's annoying license verification popup.",
+    "entities": []
+  },
+  {
+    "text": "Budgeting applications published by Mount Everest help corporate finance teams forecast.",
+    "entities": []
+  },
+  {
+    "text": "Why does Mount Everest's web portal require two different authentication apps to log in?",
+    "entities": []
+  },
+  {
+    "text": "Kangchenjunga's media archive sync tool kept corrupting video files during upload.",
+    "entities": []
+  },
+  {
+    "text": "An automated email from Kangchenjunga warned that my cloud storage capacity is full.",
+    "entities": []
+  },
+  {
+    "text": "Cloud storage software built by Kangchenjunga is popular among documentary filmmakers.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone figured out how to share folders across teams in Kangchenjunga without admin rights?",
+    "entities": []
+  },
+  {
+    "text": "Gasherbrum II's community platform web app kept logging users out every ten minutes.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed critique on a tech blog regarding Gasherbrum II's moderation tools.",
+    "entities": []
+  },
+  {
+    "text": "Social networking software developed by Gasherbrum II connects volunteers with non-profits.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Gasherbrum II inviting me to moderate a new community discussion group.",
+    "entities": []
+  },
+  {
+    "text": "Vinson Massif's security scanner flagged our clean build files as a malicious trojan.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Hacker News discussed the performance benchmarks of Vinson Massif's anti-cheat.",
+    "entities": []
+  },
+  {
+    "text": "Security software engineered by Vinson Massif is deployed across hundreds of servers.",
+    "entities": []
+  },
+  {
+    "text": "Did you read the incident report email sent by Vinson Massif after their false positive wave?",
+    "entities": []
+  },
+  {
+    "text": "Mount Kailash's resource management platform lags badly when multiple users edit sheets.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a productivity forum shared a template designed specifically for Mount Kailash.",
+    "entities": []
+  },
+  {
+    "text": "Enterprise tools created by Mount Kailash help construction companies track building assets.",
+    "entities": []
+  },
+  {
+    "text": "I received a reminder email from Mount Kailash about our upcoming subscription renewal date.",
+    "entities": []
+  },
+  {
+    "text": "Mount Rinjani's high-speed database engine threw a deadlock exception during peak testing.",
+    "entities": []
+  },
+  {
+    "text": "An article on an engineering blog detailed how Mount Rinjani manages memory caching.",
+    "entities": []
+  },
+  {
+    "text": "Database software developed by Mount Rinjani is utilized by high-frequency trading platforms.",
+    "entities": []
+  },
+  {
+    "text": "Why is Mount Rinjani's command-line interface missing basic documentation for caching?",
+    "entities": []
+  },
+  {
+    "text": "Mount Belukha's digital archiving tool failed to export records into standard CSV format.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit asked how to recover corrupted project files created in Mount Belukha.",
+    "entities": []
+  },
+  {
+    "text": "Archival software maintained by Mount Belukha is used by national museums and libraries.",
+    "entities": []
+  },
+  {
+    "text": "Check your email for the verification link sent by Mount Belukha after resetting passwords.",
+    "entities": []
+  },
+  {
+    "text": "Mount Olympus's network firewall dropped internal SSH connections after a firmware patch.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a configuration guide on GitHub for hardening Mount Olympus appliances.",
+    "entities": []
+  },
+  {
+    "text": "Cybersecurity hardware and software built by Mount Olympus protect corporate centers.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the security vulnerability alert email sent out by Mount Olympus's team?",
+    "entities": []
+  },
+  {
+    "text": "Grossglockner's development framework threw an obscure compilation error after updates.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Stack Overflow helped me fix a routing bug in Grossglockner's web framework.",
+    "entities": []
+  },
+  {
+    "text": "Web frameworks engineered by Grossglockner are gaining traction among developers.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Grossglockner promoting their upcoming virtual developer conference.",
+    "entities": []
+  },
+  {
+    "text": "Mount Triglav's enterprise messaging app keeps dropping push notifications on devices.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a tech forum shared a workaround to enable dark mode in Mount Triglav.",
+    "entities": []
+  },
+  {
+    "text": "Communication software developed by Mount Triglav is used by remote teams globally.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the notification email from Mount Triglav regarding scheduled downtime?",
+    "entities": []
+  },
+  {
+    "text": "Mount Rainier's workflow automation tool failed to trigger webhook callbacks in tests.",
+    "entities": []
+  },
+  {
+    "text": "A post on Reddit explained how to chain multiple automated actions inside Mount Rainier.",
+    "entities": []
+  },
+  {
+    "text": "Software products created by Mount Rainier help marketing agencies manage campaigns.",
+    "entities": []
+  },
+  {
+    "text": "I received a monthly summary email from Mount Rainier detailing team productivity.",
+    "entities": []
+  },
+  {
+    "text": "Mount Whitney's cloud hosting service experienced intermittent packet loss today.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Hacker News criticized Mount Whitney for their confusing pricing tiers.",
+    "entities": []
+  },
+  {
+    "text": "Cloud infrastructure services maintained by Mount Whitney host independent websites.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox for the billing statement email sent by Mount Whitney's finance team.",
+    "entities": []
+  },
+  {
+    "text": "Mount Roraima's text editor extension kept crashing on files over 50 megabytes.",
+    "entities": []
+  },
+  {
+    "text": "A user on a developer forum posted a script to customize keybindings in Mount Roraima.",
+    "entities": []
+  },
+  {
+    "text": "Developer tools engineered by Mount Roraima are popular among programmers working in C++.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the changelog email sent by Mount Roraima for version 3.4 of their plugin?",
+    "entities": []
+  },
+  {
+    "text": "Mount Stanley's data visualization dashboard failed to render charts on mobile browsers.",
+    "entities": []
+  },
+  {
+    "text": "Someone shared a workaround on GitHub for fixing scaling bugs in Mount Stanley.",
+    "entities": []
+  },
+  {
+    "text": "Analytics software built by Mount Stanley helps business analysts parse complex sets.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Mount Stanley inviting me to join their closed beta group.",
+    "entities": []
+  },
+  {
+    "text": "Jebel Toubkal's mobile VoIP application suffers from severe audio latency on networks.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a telecom forum debated the audio codec quality used by Jebel Toubkal.",
+    "entities": []
+  },
+  {
+    "text": "Communication apps developed by Jebel Toubkal allow encrypted voice calls across borders.",
+    "entities": []
+  },
+  {
+    "text": "Why does Jebel Toubkal require microphone permissions just to open the settings menu?",
+    "entities": []
+  },
+  {
+    "text": "Mount Wilhelm's inventory app keeps crashing when scanning barcodes in low light.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Reddit posted a tip on how to speed up database syncing in Mount Wilhelm.",
+    "entities": []
+  },
+  {
+    "text": "Software utilities created by Mount Wilhelm are used by warehouse workers worldwide.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated email receipt from Mount Wilhelm after purchasing accessories?",
+    "entities": []
+  },
+  {
+    "text": "Mount Ruapehu's search indexing tool skipped directories during the nightly cron job.",
+    "entities": []
+  },
+  {
+    "text": "An article on a tech blog analyzed the search algorithm underlying Mount Ruapehu's platform.",
+    "entities": []
+  },
+  {
+    "text": "Search software engineered by Mount Ruapehu powers document retrieval for archives.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter email from Mount Ruapehu highlighting new enterprise search filters.",
+    "entities": []
+  },
+  {
+    "text": "Mount Sanford's public transit app gave me arrival times that were off by twenty minutes.",
+    "entities": []
+  },
+  {
+    "text": "A thread on a local forum complained about inaccurate schedule data in Mount Sanford.",
+    "entities": []
+  },
+  {
+    "text": "Transit apps developed by Mount Sanford help daily commuters navigate bus systems.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the update notification from Mount Sanford about new subway schedules?",
+    "entities": []
+  },
+  {
+    "text": "Mount Foraker's biodiversity tracking software threw an unhandled exception while parsing.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a scientific forum asked how to export data from Mount Foraker into Excel.",
+    "entities": []
+  },
+  {
+    "text": "Field research software maintained by Mount Foraker is used by biologists studying habitats.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Mount Foraker confirming my registration for their annual symposium.",
+    "entities": []
+  },
+  {
+    "text": "Mount Hubbard's seismic monitoring dashboard froze right when minor tremors were detected.",
+    "entities": []
+  },
+  {
+    "text": "An article in a scientific journal discussed data visualization methods used by Mount Hubbard.",
+    "entities": []
+  },
+  {
+    "text": "Geological monitoring software built by Mount Hubbard is utilized by institutes globally.",
+    "entities": []
+  },
+  {
+    "text": "Why is Mount Hubbard's desktop client missing support for exporting raw telemetry?",
+    "entities": []
+  },
+  {
+    "text": "Crestone Peak's tracking tool triggered a false alarm across multiple weather stations.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a science blog analyzed the predictive models used by Crestone Peak.",
+    "entities": []
+  },
+  {
+    "text": "Emergency warning software engineered by Crestone Peak assists authorities in planning.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the safety alert email broadcasted by Crestone Peak's monitoring system?",
+    "entities": []
+  },
+  {
+    "text": "Gran Paradiso's forestry management database lost several records due to network timeouts.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a conservation forum shared a backup script for Gran Paradiso's software.",
+    "entities": []
+  },
+  {
+    "text": "Database tools developed by Gran Paradiso help environmental agencies monitor land use.",
+    "entities": []
+  },
+  {
+    "text": "I received an email notification from Gran Paradiso regarding upcoming system maintenance.",
+    "entities": []
+  },
+  {
+    "text": "Pico de Aneto's exploration software crashed when importing high-resolution scans.",
+    "entities": []
+  },
+  {
+    "text": "An engineering blog post reviewed the 3D rendering performance of Pico de Aneto.",
+    "entities": []
+  },
+  {
+    "text": "Geological modeling software engineered by Pico de Aneto is standard in the industry.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the email from Pico de Aneto about their new plugin for drone data mapping?",
+    "entities": []
+  },
+  {
+    "text": "Monte Perdido's glacier monitoring utility failed to sync telemetry data with servers.",
+    "entities": []
+  },
+  {
+    "text": "Someone asked on a research mailing list how to calibrate sensors using Monte Perdido.",
+    "entities": []
+  },
+  {
+    "text": "Environmental telemetry software built by Monte Perdido is deployed across stations.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated email from Monte Perdido reminding me to replace remote batteries.",
+    "entities": []
+  },
+  {
+    "text": "Nilgiri South's research dashboard threw syntax errors after the latest python update.",
+    "entities": []
+  },
+  {
+    "text": "A scientific paper cited Nilgiri South for processing meteorological data sets efficiently.",
+    "entities": []
+  },
+  {
+    "text": "Data processing libraries maintained by Nilgiri South are used by scientists in Europe.",
+    "entities": []
+  },
+  {
+    "text": "Why does Nilgiri South require an internet connection just to render local data charts?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Jbel Ayachi has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Jbel Ayachi support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Jbel Ayachi requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Jbel Ayachi is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Bromo completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Bromo must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Bromo keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Bromo's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Pulag on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Pulag sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Pulag, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Pulag is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Pico Duarte released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Pico Duarte got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Pico Duarte's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Pico Duarte so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, La Malinche is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "La Malinche's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that La Malinche is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to La Malinche that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Sincholagua was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Sincholagua offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Sincholagua's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Sincholagua and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Cerro Plata's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Cerro Plata changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Cerro Plata is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Cerro Plata on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Chopicalqui's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Chopicalqui working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Chopicalqui just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Chopicalqui usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Artesonraju's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Artesonraju is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Artesonraju seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Artesonraju's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Hagen's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Hagen's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Hagen spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Hagen when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Gede's desktop widget is eating up 40% of my CPU for no apparent reason.",
+    "entities": []
+  },
+  {
+    "text": "I found an old email thread from 2024 where Gede promised a feature they still haven't shipped.",
+    "entities": []
+  },
+  {
+    "text": "Products built by Gede are notoriously over-engineered for simple tasks.",
+    "entities": []
+  },
+  {
+    "text": "Did you see that thread on Hacker News where the founder of Gede argued with users?",
+    "entities": []
+  },
+  {
+    "text": "Jebel Shams's interface is clean, but the lack of keyboard shortcuts makes it super frustrating to use.",
+    "entities": []
+  },
+  {
+    "text": "An update from Jebel Shams completely wiped out my local configuration files, not happy.",
+    "entities": []
+  },
+  {
+    "text": "People in the Discord server are saying Jebel Shams is about to pivot into cryptocurrency.",
+    "entities": []
+  },
+  {
+    "text": "Books on modern software architecture often cite Jebel Shams as a prime example of good microservices.",
+    "entities": []
+  },
+  {
+    "text": "Hasan's support team took four days to reply to a critical ticket about billing errors.",
+    "entities": []
+  },
+  {
+    "text": "If you check their public roadmap, Hasan plans to launch a web version by next winter.",
+    "entities": []
+  },
+  {
+    "text": "Software maintained by Hasan usually receives weekly patches without breaking changes.",
+    "entities": []
+  },
+  {
+    "text": "Why is everyone on my Twitter timeline suddenly talking about Hasan?",
+    "entities": []
+  },
+  {
+    "text": "Süphan Dağı's API wrapper library has a critical bug that causes memory leaks in production.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated email from Süphan Dağı thanking me for signing up for their beta program.",
+    "entities": []
+  },
+  {
+    "text": "Documentation written by Süphan Dağı is so vague that I had to read the source code to figure it out.",
+    "entities": []
+  },
+  {
+    "text": "Süphan Dağı is sponsoring this week's episode of my favorite coding podcast.",
+    "entities": []
+  },
+  {
+    "text": "Tyree's browser extension was flagged by Chrome for suspicious permission requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Reddit posted a script to automate tasks using Tyree's hidden CLI flags.",
+    "entities": []
+  },
+  {
+    "text": "According to user reviews on G2, Tyree excels at team collaboration but lacks reporting features.",
+    "entities": []
+  },
+  {
+    "text": "Apps developed by Tyree tend to consume way too much battery on laptops.",
+    "entities": []
+  },
+  {
+    "text": "Shinn's privacy policy is a hundred pages long and basically signs away your rights.",
+    "entities": []
+  },
+  {
+    "text": "I received a cold sales email from Shinn pitching their enterprise analytics dashboard.",
+    "entities": []
+  },
+  {
+    "text": "The community forum for Shinn is full of frustrated users asking for basic bug fixes.",
+    "entities": []
+  },
+  {
+    "text": "Tools created by Shinn are heavily integrated into our corporate IT pipeline.",
+    "entities": []
+  },
+  {
+    "text": "Minto's desktop application feels like a poorly wrapped Electron web page.",
+    "entities": []
+  },
+  {
+    "text": "Did you get that notification from Minto about the mandatory password reset?",
+    "entities": []
+  },
+  {
+    "text": "Blog posts written by Minto's engineering team provide deep dives into database scaling.",
+    "entities": []
+  },
+  {
+    "text": "Why does Minto require root access just to install a simple text editor plugin?",
+    "entities": []
+  },
+  {
+    "text": "Paget's web server returned 503 errors right when we needed to submit our project.",
+    "entities": []
+  },
+  {
+    "text": "Someone leaked internal slides from Paget detailing their upcoming hardware product line.",
+    "entities": []
+  },
+  {
+    "text": "Platforms powered by Paget handle high-concurrency traffic without breaking a sweat.",
+    "entities": []
+  },
+  {
+    "text": "I unsubscribed from Paget's mailing list because they were spamming my inbox daily.",
+    "entities": []
+  },
+  {
+    "text": "Broad Peak's mobile client crashed every time I tried to upload a profile picture.",
+    "entities": []
+  },
+  {
+    "text": "An email sent by Broad Peak's security team warned users about a credential stuffing attack.",
+    "entities": []
+  },
+  {
+    "text": "Software engineered by Broad Peak follows strict functional programming paradigms.",
+    "entities": []
+  },
+  {
+    "text": "Have you tried out Broad Peak yet, or are you still sticking with the legacy setup?",
+    "entities": []
+  },
+  {
+    "text": "Ama Dablam's pricing page is deliberately confusing so you accidentally pick the expensive tier.",
+    "entities": []
+  },
+  {
+    "text": "People on Reddit are joking that Ama Dablam is just a wrapper around OpenAI's API.",
+    "entities": []
+  },
+  {
+    "text": "Documentation provided by Ama Dablam lacks code examples in Python and TypeScript.",
+    "entities": []
+  },
+  {
+    "text": "Tools built by Ama Dablam have completely transformed how our design team handles assets.",
+    "entities": []
+  },
+  {
+    "text": "Fuji's dashboard layout is cluttered and makes finding simple settings a chore.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Twitter went viral discussing how Fuji handles user data storage.",
+    "entities": []
+  },
+  {
+    "text": "Services managed by Fuji have maintained 99.9% uptime over the last year.",
+    "entities": []
+  },
+  {
+    "text": "Why does Fuji need access to my contacts list just to send a message?",
+    "entities": []
+  },
+  {
+    "text": "Peak Lenin's onboarding wizard kept looping and wouldn't let me finish creating my account.",
+    "entities": []
+  },
+  {
+    "text": "Someone asked on Stack Overflow how to integrate Peak Lenin with a custom authentication backend.",
+    "entities": []
+  },
+  {
+    "text": "Platforms engineered by Peak Lenin are heavily utilized in the financial technology sector.",
+    "entities": []
+  },
+  {
+    "text": "I got an invite link to Peak Lenin's private beta test from a friend on Discord.",
+    "entities": []
+  },
+  {
+    "text": "Etna's latest software patch introduced a regression that breaks keyboard navigation.",
+    "entities": []
+  },
+  {
+    "text": "An automated email reminder from Etna informed me my trial period is ending soon.",
+    "entities": []
+  },
+  {
+    "text": "Applications developed by Etna are praised for their minimalist user interface design.",
+    "entities": []
+  },
+  {
+    "text": "Have you read the post-mortem writeup that Etna published after their major outage?",
+    "entities": []
+  },
+  {
+    "text": "Blanc's cloud infrastructure went down for six hours during peak business hours.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Hacker News criticized Blanc for their heavy-handed digital licensing.",
+    "entities": []
+  },
+  {
+    "text": "Frameworks created by Blanc make building scalable web applications much easier.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter from Blanc highlighting their upcoming feature releases.",
+    "entities": []
+  },
+  {
+    "text": "Matterhorn's customer service bot gave me three completely different answers to a simple question.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a script on GitHub that bypasses Matterhorn's trial license restriction.",
+    "entities": []
+  },
+  {
+    "text": "Software maintained by Matterhorn requires a constant internet connection to function.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep hyping up Matterhorn when their software is full of unresolved bugs?",
+    "entities": []
+  },
+  {
+    "text": "Kebnekaise's browser client froze my entire computer while rendering a large dataset.",
+    "entities": []
+  },
+  {
+    "text": "An email notification from Kebnekaise stated that my password was successfully updated.",
+    "entities": []
+  },
+  {
+    "text": "Libraries published by Kebnekaise have become standard dependencies in the developer community.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the job listings on Kebnekaise's careers page? They are hiring remote engineers.",
+    "entities": []
+  },
+  {
+    "text": "Hood's notification spam is out of control, I had to turn off all alerts in the settings.",
+    "entities": []
+  },
+  {
+    "text": "A popular tech blogger published a glowing review of Hood's new mobile app.",
+    "entities": []
+  },
+  {
+    "text": "Products designed by Hood emphasize security and end-to-end data encryption.",
+    "entities": []
+  },
+  {
+    "text": "I emailed Hood support asking for a refund and got automated silence in return.",
+    "entities": []
+  },
+  {
+    "text": "Longs Peak's API documentation is written in broken English, making integration difficult.",
+    "entities": []
+  },
+  {
+    "text": "Someone on the support forum complained that Longs Peak deletes inactive accounts without notice.",
+    "entities": []
+  },
+  {
+    "text": "Software solutions provided by Longs Peak are tailored specifically for logistics companies.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox, Longs Peak just sent out invites for their closed developer preview.",
+    "entities": []
+  },
+  {
+    "text": "Pikes Peak's installer flagged my antivirus as a false positive, which scared me for a second.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Reddit discussed whether Pikes Peak is going to survive the current market downturn.",
+    "entities": []
+  },
+  {
+    "text": "Tools maintained by Pikes Peak integrate nicely with popular continuous integration pipelines.",
+    "entities": []
+  },
+  {
+    "text": "Why does Pikes Peak force you to create an account just to download a trial version?",
+    "entities": []
+  },
+  {
+    "text": "Chimborazo's database connector dropped our production connection twice this week.",
+    "entities": []
+  },
+  {
+    "text": "An update email from Chimborazo explained why their mobile app design changed so drastically.",
+    "entities": []
+  },
+  {
+    "text": "Platforms built by Chimborazo are trusted by enterprise teams handling sensitive records.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone figured out how to export data out of Chimborazo without using their proprietary format?",
+    "entities": []
+  },
+  {
+    "text": "Meru's desktop tool consumes way too much RAM when handling large files.",
+    "entities": []
+  },
+  {
+    "text": "Someone shared a workaround on Twitter for fixing Meru's annoying startup lag.",
+    "entities": []
+  },
+  {
+    "text": "Software distributed by Meru complies fully with strict European data privacy laws.",
+    "entities": []
+  },
+  {
+    "text": "I received a promotional discount code from Meru for upgrading to the pro plan.",
+    "entities": []
+  },
+  {
+    "text": "Ras Dashen's mobile application logged me out unexpectedly and won't accept my credentials.",
+    "entities": []
+  },
+  {
+    "text": "An insider report on a tech blog claimed Ras Dashen is burning through its cash reserves.",
+    "entities": []
+  },
+  {
+    "text": "Services hosted by Ras Dashen offer robust encryption for corporate communications.",
+    "entities": []
+  },
+  {
+    "text": "Why is it so hard to find pricing details on Ras Dashen's website without talking to sales?",
+    "entities": []
+  },
+  {
+    "text": "Bona's web interface is so laggy that typing feels like waiting for a dial-up connection.",
+    "entities": []
+  },
+  {
+    "text": "A user on the community forum posted a script to automate exports from Bona.",
+    "entities": []
+  },
+  {
+    "text": "Applications developed by Bona are widely used across the academic research sector.",
+    "entities": []
+  },
+  {
+    "text": "Did you get that welcome email from Bona after setting up your team workspace?",
+    "entities": []
+  },
+  {
+    "text": "Monte Viso's latest feature drop broke compatibility with our existing workflow scripts.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Hacker News noted that Monte Viso relies heavily on open-source code.",
+    "entities": []
+  },
+  {
+    "text": "Software frameworks engineered by Monte Viso simplify full-stack web development.",
+    "entities": []
+  },
+  {
+    "text": "Check out the newsletter from Monte Viso detailing their upcoming security changes.",
+    "entities": []
+  },
+  {
+    "text": "Piz Badile's support ticket system seems like a black hole where issues go to die.",
+    "entities": []
+  },
+  {
+    "text": "An email notification from Piz Badile confirmed my subscription was successfully renewed.",
+    "entities": []
+  },
+  {
+    "text": "Platforms maintained by Piz Badile provide reliable data synchronization across devices.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Piz Badile when their desktop app is so bloated?",
+    "entities": []
+  },
+  {
+    "text": "Wildspitze's billing system charged my card twice for the same monthly subscription.",
+    "entities": []
+  },
+  {
+    "text": "A detailed review on YouTube compared Wildspitze's performance against its main competitors.",
+    "entities": []
+  },
+  {
+    "text": "Software packages distributed by Wildspitze are heavily optimized for cloud environments.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated survey request from Wildspitze asking about my user experience.",
+    "entities": []
+  },
+  {
+    "text": "Nanda Devi's plugin architecture makes it super easy to write custom extensions.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a critical vulnerability found in Nanda Devi's authentication module.",
+    "entities": []
+  },
+  {
+    "text": "Tools created by Nanda Devi are standard issue in our development department.",
+    "entities": []
+  },
+  {
+    "text": "Did you read the incident report that Nanda Devi published following their downtime?",
+    "entities": []
+  },
+  {
+    "text": "Changabang's search algorithm returns completely irrelevant results half the time.",
+    "entities": []
+  },
+  {
+    "text": "An email from Changabang's executive team outlined their vision for the next decade.",
+    "entities": []
+  },
+  {
+    "text": "Software solutions engineered by Changabang help enterprises automate routine paperwork.",
+    "entities": []
+  },
+  {
+    "text": "Why is the mobile version of Changabang missing half the features found on the web app?",
+    "entities": []
+  },
+  {
+    "text": "Chulu East's text editor keeps resetting my font preferences every time I restart the app.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Reddit highlighted how Chulu East manages its remote engineering team.",
+    "entities": []
+  },
+  {
+    "text": "Platforms powered by Chulu East support millions of concurrent users without flinching.",
+    "entities": []
+  },
+  {
+    "text": "I received a security alert email from Chulu East warning about a new login attempt.",
+    "entities": []
+  },
+  {
+    "text": "Chulu West's customer portal is down for scheduled maintenance right when I need to log in.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a coding forum shared a workaround for Chulu West's strict rate limits.",
+    "entities": []
+  },
+  {
+    "text": "Software maintained by Chulu West is written in Go and compiles into a single binary.",
+    "entities": []
+  },
+  {
+    "text": "Have you checked out Chulu West's GitHub repository? Their issue tracker is a mess.",
+    "entities": []
+  },
+  {
+    "text": "Emi Koussi's rendering engine stutters whenever I try to zoom in past 200%.",
+    "entities": []
+  },
+  {
+    "text": "An email newsletter from Emi Koussi announced a major discount for early adopters.",
+    "entities": []
+  },
+  {
+    "text": "Tools built by Emi Koussi have become essential for digital artists worldwide.",
+    "entities": []
+  },
+  {
+    "text": "Why does Emi Koussi require an active internet connection just to edit local files?",
+    "entities": []
+  },
+  {
+    "text": "Tocllaraju's media playback stuttered constantly until I manually cleared the cache directory.",
+    "entities": []
+  },
+  {
+    "text": "A viral post on Twitter criticized Tocllaraju for changing their privacy terms without notifying users.",
+    "entities": []
+  },
+  {
+    "text": "Applications developed by Tocllaraju are known for their sleek, dark-mode-first user interface.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated receipt from Tocllaraju after purchasing the lifetime license?",
+    "entities": []
+  },
+  {
+    "text": "Licancabur's workspace syncing feature duplicated half my files instead of merging them.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Reddit posted a tutorial on how to configure Licancabur for maximum security.",
+    "entities": []
+  },
+  {
+    "text": "Software packages provided by Licancabur integrate seamlessly with standard corporate VPNs.",
+    "entities": []
+  },
+  {
+    "text": "I received a personalized onboarding email from Licancabur after creating a dummy account.",
+    "entities": []
+  },
+  {
+    "text": "Yale's data pipeline tool threw an unhandled exception during our nightly batch job.",
+    "entities": []
+  },
+  {
+    "text": "An article on a tech blog analyzed how Yale manages its distributed server clusters.",
+    "entities": []
+  },
+  {
+    "text": "Platforms maintained by Yale ensure high availability for mission-critical databases.",
+    "entities": []
+  },
+  {
+    "text": "Why is Yale's documentation missing instructions for configuring custom webhooks?",
+    "entities": []
+  },
+  {
+    "text": "Borah Peak's cloud sync keeps failing with a generic error code that tells me nothing.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Hacker News praised Borah Peak for their transparent open-source policy.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Borah Peak focuses heavily on reducing server infrastructure costs.",
+    "entities": []
+  },
+  {
+    "text": "Check your spam folder, my invitation code from Borah Peak ended up stuck there.",
+    "entities": []
+  },
+  {
+    "text": "Kings Peak's container management utility is fast, but the CLI syntax is counterintuitive.",
+    "entities": []
+  },
+  {
+    "text": "An email alert from Kings Peak warned that my API token is about to expire next week.",
+    "entities": []
+  },
+  {
+    "text": "Tools engineered by Kings Peak are widely adopted by DevOps engineers managing Kubernetes.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the recent benchmark tests comparing Kings Peak against Docker Desktop?",
+    "entities": []
+  },
+  {
+    "text": "Lagginhorn's spreadsheet plugin corrupts formulas whenever files are saved in an older format.",
+    "entities": []
+  },
+  {
+    "text": "Someone on the community Discord asked how to write custom plugins for Lagginhorn.",
+    "entities": []
+  },
+  {
+    "text": "Software solutions designed by Lagginhorn streamline data entry for accounting departments.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Lagginhorn offering a free migration service from legacy tools.",
+    "entities": []
+  },
+  {
+    "text": "Gran Zebrù's encryption app locked me out after a routine update, what a nightmare.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Reddit discussed whether Gran Zebrù's zero-knowledge architecture is secure.",
+    "entities": []
+  },
+  {
+    "text": "Applications built by Gran Zebrù prioritize user privacy above all other considerations.",
+    "entities": []
+  },
+  {
+    "text": "Why does Gran Zebrù's desktop client consume so much background memory while idle?",
+    "entities": []
+  },
+  {
+    "text": "Pedraforca's inventory tracking software has a terrible habit of losing offline changes.",
+    "entities": []
+  },
+  {
+    "text": "An automated email from Pedraforca reminded me to update my billing information.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Pedraforca is used by small retail shops around the country.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone experienced database locking issues when running Pedraforca on multi-core servers?",
+    "entities": []
+  },
+  {
+    "text": "Gangapurna's payment gateway threw gateway timeouts during our biggest sale event.",
+    "entities": []
+  },
+  {
+    "text": "A tech journalist published an exposé on how Gangapurna handles user data privacy.",
+    "entities": []
+  },
+  {
+    "text": "Platforms maintained by Gangapurna process millions of secure transactions daily.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Gangapurna detailing new security measures for merchants.",
+    "entities": []
+  },
+  {
+    "text": "Ramdung Go's monitoring dashboard failed to trigger an alert during our server outage.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a developer forum shared a script to scrape logs from Ramdung Go's platform.",
+    "entities": []
+  },
+  {
+    "text": "Tools engineered by Ramdung Go help system administrators keep track of cloud infrastructure.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an email invite to join Ramdung Go's new enterprise monitoring beta program?",
+    "entities": []
+  },
+  {
+    "text": "Kwangde Ri's data visualization tool crashes whenever I input datasets over 1GB.",
+    "entities": []
+  },
+  {
+    "text": "A post on Hacker News discussed the underlying database engine used by Kwangde Ri.",
+    "entities": []
+  },
+  {
+    "text": "Software packages published by Kwangde Ri are popular among data science students.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter from Kwangde Ri featuring tips on optimizing SQL queries.",
+    "entities": []
+  },
+  {
+    "text": "Ama Yangri's collaboration suite feels sluggish compared to Google Docs or Office 365.",
+    "entities": []
+  },
+  {
+    "text": "An automated warning email from Ama Yangri indicated my storage quota is almost full.",
+    "entities": []
+  },
+  {
+    "text": "Applications built by Ama Yangri are heavily relied upon by remote project management teams.",
+    "entities": []
+  },
+  {
+    "text": "Why is it impossible to change your username inside Ama Yangri without contacting support?",
+    "entities": []
+  },
+  {
+    "text": "Kedar Dome's scientific computing library has a memory leak when processing large matrices.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a research forum posted a workaround for Kedar Dome's installation errors on Windows.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Kedar Dome is widely cited in academic papers on numerical analysis.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the latest release notes published on Kedar Dome's GitHub project page?",
+    "entities": []
+  },
+  {
+    "text": "Trisul III's project management board keeps scrambling task cards whenever someone refreshes.",
+    "entities": []
+  },
+  {
+    "text": "An email from Trisul III's security team advised all users to enable two-factor authentication.",
+    "entities": []
+  },
+  {
+    "text": "Platforms developed by Trisul III compete directly with Jira and Trello in the enterprise space.",
+    "entities": []
+  },
+  {
+    "text": "Why do half the integrations in Trisul III require an expensive paid tier to unlock?",
+    "entities": []
+  },
+  {
+    "text": "Masherbrum's workflow automation tool skipped several scheduled tasks without logging errors.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit shared a custom script to extend Masherbrum's reporting capabilities.",
+    "entities": []
+  },
+  {
+    "text": "Software maintained by Masherbrum helps businesses automate their accounting pipelines.",
+    "entities": []
+  },
+  {
+    "text": "I received a promotional email from Masherbrum offering a discount on annual upgrades.",
+    "entities": []
+  },
+  {
+    "text": "Batura Sar's online learning platform went offline right during our final examination window.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a tutorial on YouTube explaining how to navigate Batura Sar's cumbersome student portal.",
+    "entities": []
+  },
+  {
+    "text": "Educational software designed by Batura Sar is used by universities across the country.",
+    "entities": []
+  },
+  {
+    "text": "Check your student email for the notification from Batura Sar regarding semester enrollment deadlines.",
+    "entities": []
+  },
+  {
+    "text": "Tirich Mir's transit routing app gave me completely wrong directions twice this morning.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Twitter criticized Tirich Mir for collecting unnecessary location data from users.",
+    "entities": []
+  },
+  {
+    "text": "Tools built by Tirich Mir are used by municipal planners to analyze commuter traffic patterns.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated feedback survey from Tirich Mir after using their navigation service?",
+    "entities": []
+  },
+  {
+    "text": "Emin's energy tracking dashboard takes forever to load historical consumption graphs.",
+    "entities": []
+  },
+  {
+    "text": "An email alert from Emin warned about high energy usage spikes in our office building.",
+    "entities": []
+  },
+  {
+    "text": "Software engineered by Emin assists utility companies in monitoring grid efficiency.",
+    "entities": []
+  },
+  {
+    "text": "Why doesn't Emin support dark mode in their desktop application yet?",
+    "entities": []
+  },
+  {
+    "text": "Moco's design software dropped all my unsaved changes after an unhandled crash.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a creative forum shared a plugin that fixes Moco's annoying layout bug.",
+    "entities": []
+  },
+  {
+    "text": "Applications published by Moco are favored by freelance graphic designers.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Moco offering a free trial of their new vector brush pack.",
+    "entities": []
+  },
+  {
+    "text": "Guna's cloud backup utility stalled halfway through my file recovery process.",
+    "entities": []
+  },
+  {
+    "text": "A post on Reddit explained how to bypass Guna's restrictive file size upload limits.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Guna provides secure cloud storage for enterprise backups.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the security advisory email sent by Guna regarding an expired SSL certificate?",
+    "entities": []
+  },
+  {
+    "text": "Ijen's logistics management tool generated incorrect shipping labels for half our orders.",
+    "entities": []
+  },
+  {
+    "text": "An article on a supply chain blog analyzed how Ijen optimizes warehouse routing algorithms.",
+    "entities": []
+  },
+  {
+    "text": "Platforms maintained by Ijen help shipping companies reduce delivery times and fuel costs.",
+    "entities": []
+  },
+  {
+    "text": "Why is Ijen's customer support phone line permanently stuck on automated hold?",
+    "entities": []
+  },
+  {
+    "text": "Tungurahua's environmental sensor software threw cryptic error codes during the rainstorm.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a science forum asked how to parse raw data logs exported from Tungurahua's app.",
+    "entities": []
+  },
+  {
+    "text": "Software built by Tungurahua is used by meteorologists to track regional weather anomalies.",
+    "entities": []
+  },
+  {
+    "text": "I got an email notification from Tungurahua stating my sensor subscription is up for renewal.",
+    "entities": []
+  },
+  {
+    "text": "Reventador's algorithmic trading bot executed a bad trade due to a delayed market data feed.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a finance forum debated whether Reventador's trading strategy actually works.",
+    "entities": []
+  },
+  {
+    "text": "Financial software developed by Reventador is utilized by boutique investment firms.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the monthly performance statement email from Reventador's analytics platform?",
+    "entities": []
+  },
+  {
+    "text": "Chacaltaya's database migration tool wiped a test table because of a missing primary key constraint.",
+    "entities": []
+  },
+  {
+    "text": "Someone shared a script on GitHub that speeds up database indexing in Chacaltaya.",
+    "entities": []
+  },
+  {
+    "text": "Enterprise software engineered by Chacaltaya is designed for heavy-duty database administration.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox for the release notes email detailing Chacaltaya's latest security patches.",
+    "entities": []
+  },
+  {
+    "text": "Villarrica's financial analytics suite takes up an absurd amount of disk space on installation.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit posted a workaround for Villarrica's annoying license verification popup.",
+    "entities": []
+  },
+  {
+    "text": "Applications published by Villarrica help corporate finance teams forecast quarterly budgets.",
+    "entities": []
+  },
+  {
+    "text": "Why does Villarrica's web portal require two different authentication apps just to log in?",
+    "entities": []
+  },
+  {
+    "text": "Mercedario's media archive sync tool kept corrupting video files during upload.",
+    "entities": []
+  },
+  {
+    "text": "An automated email from Mercedario warned that my cloud storage capacity is nearly full.",
+    "entities": []
+  },
+  {
+    "text": "Cloud storage software built by Mercedario is popular among documentary filmmakers.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone figured out how to share folders across teams in Mercedario without admin rights?",
+    "entities": []
+  },
+  {
+    "text": "Ranrapalca's community platform web app kept logging users out every ten minutes yesterday.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed critique on a tech blog regarding Ranrapalca's moderation tools.",
+    "entities": []
+  },
+  {
+    "text": "Social networking software developed by Ranrapalca connects volunteers with local non-profits.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Ranrapalca inviting me to moderate a new community discussion group.",
+    "entities": []
+  },
+  {
+    "text": "Ossa's security scanner flagged our clean build files as a malicious trojan.",
+    "entities": []
+  },
+  {
+    "text": "A thread on Hacker News discussed the performance benchmarks of Ossa's anti-cheat engine.",
+    "entities": []
+  },
+  {
+    "text": "Security software engineered by Ossa is deployed across hundreds of gaming servers.",
+    "entities": []
+  },
+  {
+    "text": "Did you read the incident report email sent by Ossa after their false positive wave?",
+    "entities": []
+  },
+  {
+    "text": "Yari's resource management platform lags badly whenever multiple users edit the same sheet.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a productivity forum shared a template designed specifically for Yari.",
+    "entities": []
+  },
+  {
+    "text": "Enterprise tools created by Yari help construction companies track building materials.",
+    "entities": []
+  },
+  {
+    "text": "I received a reminder email from Yari about our upcoming subscription renewal date.",
+    "entities": []
+  },
+  {
+    "text": "Tate's high-speed database engine threw a deadlock exception during peak load testing.",
+    "entities": []
+  },
+  {
+    "text": "An article on an engineering blog detailed how Tate manages distributed memory caching.",
+    "entities": []
+  },
+  {
+    "text": "Database software developed by Tate is utilized by high-frequency trading platforms.",
+    "entities": []
+  },
+  {
+    "text": "Why is Tate's command-line interface missing basic documentation for cache flushing?",
+    "entities": []
+  },
+  {
+    "text": "Aconcagua's digital archiving tool failed to export records into standard CSV format.",
+    "entities": []
+  },
+  {
+    "text": "A user on Reddit asked how to recover corrupted project files created in Aconcagua.",
+    "entities": []
+  },
+  {
+    "text": "Archival software maintained by Aconcagua is used by national museums and libraries.",
+    "entities": []
+  },
+  {
+    "text": "Check your email for the verification link sent by Aconcagua after resetting your password.",
+    "entities": []
+  },
+  {
+    "text": "Mera Peak's network firewall dropped internal SSH connections after the latest firmware patch.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a configuration guide on GitHub for hardening Mera Peak security appliances.",
+    "entities": []
+  },
+  {
+    "text": "Cybersecurity hardware and software built by Mera Peak protect corporate data centers.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the security vulnerability alert email sent out by Mera Peak's engineering team?",
+    "entities": []
+  },
+  {
+    "text": "Apo's development framework threw an obscure compilation error after updating node modules.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on Stack Overflow helped me fix a routing bug in Apo's web framework.",
+    "entities": []
+  },
+  {
+    "text": "Web frameworks engineered by Apo are gaining traction among junior and senior developers alike.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Apo promoting their upcoming virtual developer conference.",
+    "entities": []
+  },
+  {
+    "text": "Zugspitze's enterprise messaging app keeps dropping push notifications on Android devices.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a tech forum shared a workaround to enable dark mode in Zugspitze.",
+    "entities": []
+  },
+  {
+    "text": "Communication software developed by Zugspitze is used by remote teams across the globe.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the notification email from Zugspitze regarding scheduled server downtime?",
+    "entities": []
+  },
+  {
+    "text": "Marmolada's workflow automation tool failed to trigger webhook callbacks during our test run.",
+    "entities": []
+  },
+  {
+    "text": "A post on Reddit explained how to chain multiple automated actions inside Marmolada.",
+    "entities": []
+  },
+  {
+    "text": "Software products created by Marmolada help marketing agencies manage client campaigns.",
+    "entities": []
+  },
+  {
+    "text": "I received a monthly summary email from Marmolada detailing our team's productivity metrics.",
+    "entities": []
+  },
+  {
+    "text": "Ben Nevis's cloud hosting service experienced intermittent packet loss throughout the afternoon.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Hacker News criticized Ben Nevis for their confusing server pricing tiers.",
+    "entities": []
+  },
+  {
+    "text": "Cloud infrastructure services maintained by Ben Nevis host thousands of independent websites.",
+    "entities": []
+  },
+  {
+    "text": "Check your inbox for the billing statement email sent by Ben Nevis's finance department.",
+    "entities": []
+  },
+  {
+    "text": "Mauna Kea's text editor extension kept crashing whenever I opened files over 50 megabytes.",
+    "entities": []
+  },
+  {
+    "text": "A user on a developer forum posted a script to customize keybindings in Mauna Kea.",
+    "entities": []
+  },
+  {
+    "text": "Developer tools engineered by Mauna Kea are popular among programmers working in C++.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the changelog email sent by Mauna Kea for version 3.4 of their editor plugin?",
+    "entities": []
+  },
+  {
+    "text": "Mauna Loa's data visualization dashboard failed to render charts correctly on mobile browsers.",
+    "entities": []
+  },
+  {
+    "text": "Someone shared a workaround on GitHub for fixing scaling bugs in Mauna Loa.",
+    "entities": []
+  },
+  {
+    "text": "Analytics software built by Mauna Loa helps business analysts parse complex datasets.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Mauna Loa inviting me to join their closed beta testing group.",
+    "entities": []
+  },
+  {
+    "text": "Haleakalā's mobile VoIP application suffers from severe audio latency on cellular networks.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a telecom forum debated the audio codec quality used by Haleakalā.",
+    "entities": []
+  },
+  {
+    "text": "Communication apps developed by Haleakalā allow encrypted voice calls across borders.",
+    "entities": []
+  },
+  {
+    "text": "Why does Haleakalā require microphone permissions just to open the settings menu?",
+    "entities": []
+  },
+  {
+    "text": "Huascarán's inventory management app keeps crashing when scanning barcodes in low light.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Reddit posted a tip on how to speed up database syncing in Huascarán.",
+    "entities": []
+  },
+  {
+    "text": "Software utilities created by Huascarán are used by warehouse workers around the world.",
+    "entities": []
+  },
+  {
+    "text": "Did you get an automated email receipt from Huascarán after purchasing hardware accessories?",
+    "entities": []
+  },
+  {
+    "text": "Weisshorn's search indexing tool skipped several updated directories during the nightly cron job.",
+    "entities": []
+  },
+  {
+    "text": "An article on a tech blog analyzed the search algorithm underlying Weisshorn's platform.",
+    "entities": []
+  },
+  {
+    "text": "Search software engineered by Weisshorn powers document retrieval for enterprise archives.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter email from Weisshorn highlighting new enterprise search filters.",
+    "entities": []
+  },
+  {
+    "text": "Breithorn's public transit app gave me arrival times that were off by twenty minutes.",
+    "entities": []
+  },
+  {
+    "text": "A thread on a local forum complained about inaccurate schedule data in Breithorn.",
+    "entities": []
+  },
+  {
+    "text": "Transit apps developed by Breithorn help daily commuters navigate municipal bus systems.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the update notification from Breithorn about new subway line schedules?",
+    "entities": []
+  },
+  {
+    "text": "Satopanth's biodiversity tracking software threw an unhandled exception while parsing field notes.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a scientific computing forum asked how to export data from Satopanth into Excel.",
+    "entities": []
+  },
+  {
+    "text": "Field research software maintained by Satopanth is used by biologists studying rainforests.",
+    "entities": []
+  },
+  {
+    "text": "I got an email from Satopanth confirming my registration for their annual ecological symposium.",
+    "entities": []
+  },
+  {
+    "text": "Meru Peak's seismic monitoring dashboard froze right when minor tremors were detected.",
+    "entities": []
+  },
+  {
+    "text": "An article in a scientific journal discussed data visualization methods used by Meru Peak.",
+    "entities": []
+  },
+  {
+    "text": "Geological monitoring software built by Meru Peak is utilized by research institutes globally.",
+    "entities": []
+  },
+  {
+    "text": "Why is Meru Peak's desktop client missing support for exporting raw sensor telemetry?",
+    "entities": []
+  },
+  {
+    "text": "Thamserku's volcanic activity tracking tool triggered a false alarm across multiple weather stations.",
+    "entities": []
+  },
+  {
+    "text": "A discussion on a science blog analyzed the predictive models used by Thamserku.",
+    "entities": []
+  },
+  {
+    "text": "Emergency warning software engineered by Thamserku assists authorities in disaster planning.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the safety alert email broadcasted by Thamserku's monitoring system?",
+    "entities": []
+  },
+  {
+    "text": "Yala Peak's forestry management database lost several input records due to a network timeout.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a conservation forum shared a backup script for Yala Peak's software.",
+    "entities": []
+  },
+  {
+    "text": "Database tools developed by Yala Peak help environmental agencies monitor land use.",
+    "entities": []
+  },
+  {
+    "text": "I received an email notification from Yala Peak regarding upcoming system maintenance.",
+    "entities": []
+  },
+  {
+    "text": "Tent Peak's mineral exploration software crashed when importing high-resolution topographical scans.",
+    "entities": []
+  },
+  {
+    "text": "An engineering blog post reviewed the 3D rendering performance of Tent Peak.",
+    "entities": []
+  },
+  {
+    "text": "Geological modeling software engineered by Tent Peak is standard in the mining industry.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the email from Tent Peak about their new plugin for drone data mapping?",
+    "entities": []
+  },
+  {
+    "text": "Hiunchuli's glacier monitoring utility failed to sync telemetry data with the cloud server.",
+    "entities": []
+  },
+  {
+    "text": "Someone asked on a research mailing list how to calibrate sensors using Hiunchuli.",
+    "entities": []
+  },
+  {
+    "text": "Environmental telemetry software built by Hiunchuli is deployed across alpine research stations.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated email from Hiunchuli reminding me to replace remote station batteries.",
+    "entities": []
+  },
+  {
+    "text": "Oku's climate research dashboard threw syntax errors after the latest python update.",
+    "entities": []
+  },
+  {
+    "text": "A scientific paper cited Oku for processing meteorological data sets efficiently.",
+    "entities": []
+  },
+  {
+    "text": "Data processing libraries maintained by Oku are used by climate scientists in Europe.",
+    "entities": []
+  },
+  {
+    "text": "Why does Oku require an internet connection just to render local data charts?",
+    "entities": []
+  },
+  {
+    "text": "Salkantay's alpine expedition planning tool mixed up time zones for base camp check-ins.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a mountaineering forum shared a template designed for Salkantay.",
+    "entities": []
+  },
+  {
+    "text": "Logistics software created by Salkantay helps expedition teams coordinate remote supplies.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the confirmation email from Salkantay for your upcoming trip registration?",
+    "entities": []
+  },
+  {
+    "text": "Half Dome's high-altitude mapping application froze while rendering 3D elevation models.",
+    "entities": []
+  },
+  {
+    "text": "A cartography blog published a review comparing Half Dome with competing GIS software.",
+    "entities": []
+  },
+  {
+    "text": "Mapping software engineered by Half Dome is used by surveyors working in harsh terrain.",
+    "entities": []
+  },
+  {
+    "text": "I received a newsletter email from Half Dome introducing new satellite imagery layers.",
+    "entities": []
+  },
+  {
+    "text": "Weissmies's gorilla tracking database app lost connectivity during field research in the park.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a conservation mailing list asked how to troubleshoot sync errors in Weissmies.",
+    "entities": []
+  },
+  {
+    "text": "Wildlife management software maintained by Weissmies helps rangers protect endangered species.",
+    "entities": []
+  },
+  {
+    "text": "Did you get the update notification email from Weissmies regarding offline data storage?",
+    "entities": []
+  },
+  {
+    "text": "Nadelhorn's agricultural analytics platform gave incorrect soil moisture readings after heavy rain.",
+    "entities": []
+  },
+  {
+    "text": "A farming tech blog reviewed how Nadelhorn processes satellite imagery for crop yields.",
+    "entities": []
+  },
+  {
+    "text": "Agricultural software built by Nadelhorn assists farmers in optimizing fertilizer usage.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Nadelhorn offering a free soil analysis report template.",
+    "entities": []
+  },
+  {
+    "text": "Täschhorn's archaeological artifact cataloging tool corrupted image metadata during batch uploads.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a history forum shared a script to fix broken database links in Täschhorn.",
+    "entities": []
+  },
+  {
+    "text": "Database software developed by Täschhorn is used by museums to catalogue ancient relics.",
+    "entities": []
+  },
+  {
+    "text": "Did you see the email notification from Täschhorn about scheduled database backups?",
+    "entities": []
+  },
+  {
+    "text": "Hochkönig's high-altitude gear inventory app crashed whenever I tried scanning barcodes offline.",
+    "entities": []
+  },
+  {
+    "text": "A user on an outdoor gear forum complained about sync bugs in Hochkönig.",
+    "entities": []
+  },
+  {
+    "text": "Inventory management software maintained by Hochkönig is used by outdoor equipment retailers.",
+    "entities": []
+  },
+  {
+    "text": "I got an automated receipt email from Hochkönig after renewing my software subscription.",
+    "entities": []
+  },
+  {
+    "text": "Piz Kesch's fossil record database threw syntax errors when executing complex SQL queries.",
+    "entities": []
+  },
+  {
+    "text": "A paleontology journal mentioned Piz Kesch in an article about digital fossil archiving tools.",
+    "entities": []
+  },
+  {
+    "text": "Research database software engineered by Piz Kesch is utilized by natural history museums.",
+    "entities": []
+  },
+  {
+    "text": "Why does Piz Kesch's web portal require a password reset every single month?",
+    "entities": []
+  },
+  {
+    "text": "Vignemale's trail maintenance tracking app failed to log GPS coordinates correctly in the valley.",
+    "entities": []
+  },
+  {
+    "text": "Someone on a hiking forum shared a workaround for Vignemale's battery drain issue.",
+    "entities": []
+  },
+  {
+    "text": "Park management software built by Vignemale helps rangers coordinate search and rescue efforts.",
+    "entities": []
+  },
+  {
+    "text": "Did you receive the volunteer newsletter email sent out by Vignemale's park association?",
+    "entities": []
+  },
+  {
+    "text": "Kang Guru's forest canopy analysis tool crashed when processing high-resolution drone imagery.",
+    "entities": []
+  },
+  {
+    "text": "A forestry research paper cited Kang Guru for analyzing ecological data sets quickly.",
+    "entities": []
+  },
+  {
+    "text": "Ecological software developed by Kang Guru is used by conservationists studying forest health.",
+    "entities": []
+  },
+  {
+    "text": "I received an email from Kang Guru confirming my submission of field research data.",
+    "entities": []
+  },
+  {
+    "text": "Ganesh II's climbing route database app displayed outdated boulder problem gradings.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a correction on a climbing forum regarding beta info in Ganesh II.",
+    "entities": []
+  },
+  {
+    "text": "Mobile software created by Ganesh II helps climbers discover new crags and routes.",
+    "entities": []
+  },
+  {
+    "text": "Did you get the notification email from Ganesh II about their new offline map feature?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Pharchamo has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Pharchamo support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Pharchamo requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Pharchamo is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Abi Gamin completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Abi Gamin must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Abi Gamin keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Abi Gamin's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Mana Peak on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Mana Peak sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Mana Peak, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Mana Peak is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Nanda Kot released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Nanda Kot got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Nanda Kot's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Nanda Kot so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Mrigthuni is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Mrigthuni's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Mrigthuni is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Mrigthuni that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Trisul II was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Trisul II offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Trisul II's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Trisul II and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Deo Tibba's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Deo Tibba changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Deo Tibba is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Deo Tibba on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Rakaposhi's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Rakaposhi working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Rakaposhi just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Rakaposhi usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Ultar Sar's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Ultar Sar is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Ultar Sar seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Ultar Sar's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Passu Sar's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Passu Sar's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Passu Sar spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Passu Sar when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Tajumulco has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Tajumulco support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Tajumulco requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Tajumulco is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Parícutin completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Parícutin must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Parícutin keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Parícutin's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Condoriri on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Condoriri sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Condoriri, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Condoriri is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Tupungato released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Tupungato got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Tupungato's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Tupungato so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Baruntse is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Baruntse's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Baruntse is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Baruntse that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Jungfrau was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Jungfrau offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Jungfrau's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Jungfrau and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Alpamayo's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Alpamayo changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Alpamayo is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Alpamayo on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Cotopaxi's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Cotopaxi working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Cotopaxi just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Cotopaxi usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Illimani's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Illimani is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Illimani seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Illimani's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Fitz Roy's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Fitz Roy's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Fitz Roy spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Fitz Roy when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think La Meije has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from La Meije support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, La Meije requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "La Meije is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Mulhacén completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Mulhacén must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Mulhacén keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Mulhacén's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Trisul I on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Trisul I sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Trisul I, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Trisul I is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Shivling released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Shivling got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Shivling's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Shivling so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Cholatse is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Cholatse's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Cholatse is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Cholatse that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Kyajo Ri was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Kyajo Ri offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Kyajo Ri's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Kyajo Ri and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Gokyo Ri's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Gokyo Ri changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Gokyo Ri is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Gokyo Ri on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "El Misti's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get El Misti working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from El Misti just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by El Misti usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Coropuna's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Coropuna is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Coropuna seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Coropuna's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Yerupajá's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Yerupajá's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Yerupajá spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Yerupajá when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Acotango has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Acotango support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Acotango requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Acotango is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Piz Palü completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Piz Palü must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Piz Palü keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Piz Palü's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Piz Buin on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Piz Buin sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Piz Buin, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Piz Buin is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Alphubel released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Alphubel got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Alphubel's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Alphubel so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Tetnuldi is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Tetnuldi's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Tetnuldi is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Tetnuldi that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Dykh-Tau was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Dykh-Tau offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Dykh-Tau's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Dykh-Tau and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Ganesh I's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Ganesh I changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Ganesh I is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Ganesh I on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Kangtega's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Kangtega working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Kangtega just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Kangtega usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Dunagiri's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Dunagiri is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Dunagiri seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Dunagiri's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Indrasan's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Indrasan's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Indrasan spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Indrasan when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Antisana has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Antisana support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Antisana requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Antisana is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Ancohuma completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Ancohuma must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Ancohuma keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Ancohuma's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Mururata on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Mururata sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Mururata, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Mururata is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Tronador released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Tronador got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Tronador's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Tronador so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Cho Oyu is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Cho Oyu's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Cho Oyu is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Cho Oyu that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Manaslu was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Manaslu offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Manaslu's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Manaslu and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Civetta's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Civetta changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Civetta is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Civetta on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Lyskamm's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Lyskamm working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Lyskamm just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Lyskamm usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Taboche's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Taboche is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Taboche seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Taboche's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Illampu's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Illampu's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Illampu spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Illampu when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Pelvoux has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Pelvoux support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Pelvoux requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Pelvoux is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Bishorn completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Bishorn must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Bishorn keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Bishorn's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Mytikas on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Mytikas sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Mytikas, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Mytikas is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Hoverla released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Hoverla got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Hoverla's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Hoverla so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Shkhara is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Shkhara's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Shkhara is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Shkhara that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Hardeol was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Hardeol offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Hardeol's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Hardeol and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Spantik's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Spantik changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Spantik is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Spantik on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Latok I's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Latok I working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Latok I just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Latok I usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Cayambe's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Cayambe is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Cayambe seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Cayambe's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Huandoy's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Huandoy's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Huandoy spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Huandoy when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Sabalan has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Sabalan support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Sabalan requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Sabalan is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Alamkuh completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Alamkuh must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Alamkuh keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Alamkuh's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Lhotse on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Lhotse sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Lhotse, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Lhotse is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Makalu released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Makalu got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Makalu's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Makalu so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Denali is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Denali's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Denali is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Denali that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Nuptse was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Nuptse offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Nuptse's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Nuptse and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Pumori's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Pumori changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Pumori is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Pumori on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Sajama's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Sajama working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Sajama just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Sajama usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Ortler's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Ortler is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Ortler seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Ortler's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Pollux's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Pollux's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Pollux spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Pollux when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Castor has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Castor support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Castor requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Castor is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Posets completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Posets must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Posets keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Posets's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Veleta on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Veleta sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Veleta, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Veleta is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Musala released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Musala got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Musala's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Musala so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Midžor is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Midžor's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Midžor is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Midžor that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Negoiu was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Negoiu offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Negoiu's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Negoiu and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Saipal's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Saipal changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Saipal is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Saipal on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Numbur's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Numbur working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Numbur just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Numbur usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Noshaq's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Noshaq is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Noshaq seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Noshaq's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Batian's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Batian's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Batian spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Batian when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Nelion has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Nelion support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Nelion requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Nelion is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Mafadi completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Mafadi must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Mafadi keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Mafadi's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Tacaná on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Tacaná sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Tacaná, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Tacaná is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Sangay released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Sangay got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Sangay's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Sangay so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Tunari is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Tunari's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Tunari is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Tunari that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Osorno was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Osorno offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Osorno's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Osorno and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Llaima's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Llaima changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Llaima is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Llaima on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "Eiger's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get Eiger working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from Eiger just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by Eiger usually comes with a massive footprint and high memory usage.",
+    "entities": []
+  },
+  {
+    "text": "Kamet's mobile app has terrible reviews on the App Store, mostly complaining about crashes.",
+    "entities": []
+  },
+  {
+    "text": "I saw a tweet earlier today saying Kamet is shutting down their free API tier.",
+    "entities": []
+  },
+  {
+    "text": "Reading through the user manual, Kamet seems designed strictly for enterprise accounting firms.",
+    "entities": []
+  },
+  {
+    "text": "Can we talk about how aggressive Kamet's marketing pop-ups are on every tech blog?",
+    "entities": []
+  },
+  {
+    "text": "Ushba's developer portal has been throwing 502 bad gateway errors all morning.",
+    "entities": []
+  },
+  {
+    "text": "Someone posted a detailed teardown of Ushba's security architecture on Reddit.",
+    "entities": []
+  },
+  {
+    "text": "According to the quarterly financial filing, Ushba spent millions on advertising.",
+    "entities": []
+  },
+  {
+    "text": "Why do people keep recommending Ushba when there are free tools that do the exact same thing?",
+    "entities": []
+  },
+  {
+    "text": "Honestly, I think Altar has been crashing constantly on my machine ever since the latest update.",
+    "entities": []
+  },
+  {
+    "text": "Did anyone else get that weird phishing email claiming to be from Altar support?",
+    "entities": []
+  },
+  {
+    "text": "According to the official documentation, Altar requires at least 16GB of RAM to run smoothly.",
+    "entities": []
+  },
+  {
+    "text": "Altar is just another overhyped startup burning through venture capital with zero actual product.",
+    "entities": []
+  },
+  {
+    "text": "I was reading in a Reddit thread that Lanín completely changed their API pricing model overnight.",
+    "entities": []
+  },
+  {
+    "text": "Employees of Lanín must be having a complete nightmare trying to patch that zero-day exploit.",
+    "entities": []
+  },
+  {
+    "text": "Can someone explain why Lanín keeps throwing a null pointer exception on line 42?",
+    "entities": []
+  },
+  {
+    "text": "Lanín's new desktop client looks suspiciously similar to Notion.",
+    "entities": []
+  },
+  {
+    "text": "Yesterday I tried installing Rysy on my Linux box and it broke my entire display server.",
+    "entities": []
+  },
+  {
+    "text": "Rysy sent out a newsletter saying they are dropping support for legacy operating systems.",
+    "entities": []
+  },
+  {
+    "text": "If you look at the GitHub issues for Rysy, half the comments are people begging for a dark mode.",
+    "entities": []
+  },
+  {
+    "text": "Software developed by Rysy is notoriously difficult to set up without Docker.",
+    "entities": []
+  },
+  {
+    "text": "Dom released a blog post explaining how they scaled their database to handle millions of requests.",
+    "entities": []
+  },
+  {
+    "text": "Someone on Twitter mentioned that Dom got acquired by a bigger tech conglomerate.",
+    "entities": []
+  },
+  {
+    "text": "Dom's terms of service update basically means they can sell your personal data now.",
+    "entities": []
+  },
+  {
+    "text": "Why does everyone on Hacker News seem to hate Dom so much?",
+    "entities": []
+  },
+  {
+    "text": "In chapter four of the biography, Nun is described as a tiny garage project that blew up overnight.",
+    "entities": []
+  },
+  {
+    "text": "Nun's customer support took three weeks just to reset my password, absolutely ridiculous.",
+    "entities": []
+  },
+  {
+    "text": "Rumor has it that Nun is planning to lay off half their engineering team next quarter.",
+    "entities": []
+  },
+  {
+    "text": "Is there any open-source alternative to Nun that doesn't require a monthly subscription?",
+    "entities": []
+  },
+  {
+    "text": "Kun was mentioned in today's tech newsletter as one of the top tools to watch out for.",
+    "entities": []
+  },
+  {
+    "text": "My colleague forwarded an email from Kun offering a 50% discount on annual plans.",
+    "entities": []
+  },
+  {
+    "text": "Kun's codebase is written entirely in Rust, which explains why everyone keeps fanboying over it.",
+    "entities": []
+  },
+  {
+    "text": "I tried canceling my subscription to Kun and their retention bot offered me two months free.",
+    "entities": []
+  },
+  {
+    "text": "Api's latest security audit report is publicly available on their website if you want to read it.",
+    "entities": []
+  },
+  {
+    "text": "People on the forums are complaining that Api changed their free tier limits without warning.",
+    "entities": []
+  },
+  {
+    "text": "According to an insider leak, Api is secretly working on an enterprise hardware appliance.",
+    "entities": []
+  },
+  {
+    "text": "Installing Api on Windows requires disabling half your antivirus software, which feels sketchy.",
+    "entities": []
+  },
+  {
+    "text": "K2's CEO gave a keynote speech at the conference talking about the future of decentralized tech.",
+    "entities": []
+  },
+  {
+    "text": "Has anyone managed to get K2 working with OAuth2? Their docs are completely useless.",
+    "entities": []
+  },
+  {
+    "text": "An email from K2 just landed in my inbox saying they had a minor data breach.",
+    "entities": []
+  },
+  {
+    "text": "Software created by K2 usually comes with a massive footprint and high memory usage.",
     "entities": []
   }
 ]

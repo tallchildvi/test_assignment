@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,venv,windows,macos,opencv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,venv,windows,macos,opencv
 
+.safetensors
+.pt
+mountain_ner/
 ### macOS ###
 # General
 .DS_Store
